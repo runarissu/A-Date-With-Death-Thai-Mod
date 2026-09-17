@@ -164,6 +164,15 @@
 - `_insert_zwsp.py`: pythainlp `newmm` tokenizes maximal Thai runs (`\u0E00–\u0E7F`) in active lines only (skips `#` comments + `old` lines) → joins with `\u200b`; idempotent, vars/tags/paths untouched
 - Applied: 130 files / 12,744 lines; lint clean (exit 0), 8,381/8,381 blocks, no thai errors
 
+### Language selection screens
+- `language_choose_firstlaunch` redefined: 3 buttons — English / ไทย (new, NotoSansThai-UI font) / 日本語
+- `screen preferences()` fully redefined (verbatim copy of screens.rpy:2048-2172) with added ไทย textbutton in Text Language hbox — keep in sync if original changes
+- Thai button mirrors Japanese NSFWPatch action (`persistent.NSFWPatch_installed = False`)
+- Lint clean; `thai_mod.rpa` rebuilt (157 files / ~47.5 MB)
+- `_create_dist.py` → `_dist/thai_mod.zip` (~21 MB, contains `game/thai_mod.rpa`) + `_dist/README.md` bilingual install guide — RPA index verified (157 entries, correct `tl/thai/` paths)
+- **RPA fix**: Ren'Py does NOT load `.rpy` from archives (`script.py:707` "Cannot load rpy file from inside an archive") — only `.rpyc`. `_create_rpa.py` now packs `.rpyc`+.ttf; generate via lint/game run first. Verified: with `game/tl/thai/` fully removed, lint still reports 8,381 thai blocks
+- Gotcha: moving `tl/thai` within `game/` doesn't disable it (whole `game/` tree is scanned) — move outside `game/` to test; loose .rpy + archive .rpyc coexist fine (same statement names dedupe, but different-path copies collide)
+
 ### Next
 - In-game QA (menu, toggle, char creation, chat/DM, contacts, books, lingo, endings, save/load, wrapping) → `python _create_rpa.py` → `thai_mod.rpa`
 - Low priority: 3D/ActionEditor dev-tool strings; `beyond the bet` DLC scripts have JP TL but no thai tl files generated — scope TBD

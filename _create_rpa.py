@@ -24,9 +24,11 @@ def create_rpa(source_dir, output_path, base_dir=None):
     key = 0x12345678  # arbitrary key
     files = []
 
-    # Collect only necessary mod files (.rpy and .ttf)
-    # Skip .rpyc (compiled, Ren'Py will compile from .rpy), .bak, .txt, etc.
-    allowed_exts = {".rpy", ".ttf"}
+    # Pack .rpyc + .ttf — Ren'Py does NOT load .rpy sources from inside
+    # an archive (script.py: "Cannot load rpy file from inside an archive"),
+    # so only compiled .rpyc works. Generate them first by running the game
+    # or `ADatewithDeath.exe . lint` once with the loose tl/thai tree present.
+    allowed_exts = {".rpyc", ".ttf"}
     for root, dirs, fnames in os.walk(source_dir):
         for fn in sorted(fnames):
             ext = os.path.splitext(fn)[1].lower()

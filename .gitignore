@@ -3,10 +3,16 @@
 
 # Whitelist: mod files
 !.gitignore
+!README.md
 !docs/
 !_create_rpa.py
+!_create_dist.py
+!_insert_zwsp.py
 !_merge_fonts.py
 !_split_tl.py
+!_dist/
+_dist/*
+!_dist/README.md
 !game/
 game/*
 !game/tl/
