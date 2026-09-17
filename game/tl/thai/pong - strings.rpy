@@ -4,16 +4,16 @@ translate thai strings:
 
     # game/pong.rpy:218
     old "Click to Begin"
-    new "คลิกเพื่อเริ่ม"
+    new "คลิก​เพื่อ​เริ่ม"
 
     # game/pong.rpy:232
     old "You lose!"
-    new "คุณแพ้!"
+    new "คุณ​แพ้!"
 
     # game/pong.rpy:234
     old "You win!"
-    new "คุณชนะ!"
+    new "คุณ​ชนะ!"
 
     # game/pong.rpy:238
     old "Play Again"
-    new "เล่นอีกครั้ง"
+    new "เล่น​อีกครั้ง"

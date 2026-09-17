@@ -4,8 +4,8 @@ translate thai strings:
 
     # game/runner.rpy:233
     old "You lose."
-    new "คุณแพ้แล้ว"
+    new "คุณ​แพ้​แล้ว"
 
     # game/runner.rpy:234
     old "Play again"
-    new "เล่นอีกครั้ง"
+    new "เล่น​อีกครั้ง"

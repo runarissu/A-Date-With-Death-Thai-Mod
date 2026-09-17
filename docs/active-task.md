@@ -21,11 +21,19 @@ Workflow mirrors the completed 14DaysWithYou mod (`X:\14DaysWithYou-5.5-pc`).
 - [ ] Translate chapters Day 1→7 → endings → books/call_messages → DLC
   - [x] Day 1: `1_day - strings.rpy` (539 choices) + parts 01–08 + `1_roomexplore` parts 01–02
   - [x] Day 2: `2_day - strings.rpy` (747 choices) + parts 01–12 + `2_roomexplore` strings + parts 01–02 — validated (vars/tags/quotes clean)
-  - [ ] Day 3–7, bad_end, dlc_end, end_1, end_2, books
-- [ ] Thai DM/contact lists in `replace_screens.rpy` (cf. JP `JP_DM_list_*` pattern in screens.rpy)
-- [ ] Thai line breaking: PyICU (py3.9 wheel?) or ZWSP pre-segmentation via pythainlp
-- [ ] Fix source typo tag `{i}flirt{/}` → `{/i}` in `5_day - part 02.rpy` new-string
+  - [x] Day 3: `3_day - strings.rpy` + parts 01–08 + `3_roomexplore` strings + parts 01–02 — validated
+  - [x] Day 4: `4_day - strings.rpy` + parts 01–13 + `4_roomexplore` strings + parts 01–02 — validated + lint clean
+  - [x] Day 5: `5_day - strings.rpy` (825 choices) + parts 01–13 + `5_roomexplore` strings + parts 01–02 — validated (0 residual EN; pet_Her/pet_She case-sensitive vars preserved)
+  - [x] Day 6: `6_day - strings.rpy` (469 choices) + parts 01–09 + `6_roomexplore` strings + parts 01–02 — validated (0 residual EN; `bucket list` intentionally kept)
+  - [x] Day 7: `7_roomexplore` strings + parts 01–03 (no 7_day file exists — Day 7 is roomexplore-only)
+  - [x] bad_end (+badend_roomexplore), dlc_end, end_1, end_2, books, script intro, lingo — all validated
+  - [ ] NOTE: `beyond the bet` DLC scripts (day7dlc, flowerend, soulbabyend, badenddlc) have JP TL but NO thai tl files generated — check if in scope
+- [x] Thai DM/contact lists in `replace_screens.rpy` — `randomizeDMs()` redefined at init 10, lazy DM refs, `_english_dm_pools()` fixes source JP-overwrite bug, toggle calls `randomizeDMs()`
+- [x] Thai line breaking: `_insert_zwsp.py` + pythainlp newmm → ZWSP in 130 files/12,744 lines (gui.language already "unicode"; thaic90/PyICU rejected)
+- [x] Lint clean (exit 0), 8,381/8,381 blocks, no thai errors — verified after ZWSP + contacts
+- [x] Fix source typo tag `{i}flirt{/}` → `{/i}` in `5_day - part 02.rpy` new-string
 - [ ] In-game QA per checklist → `python _create_rpa.py` → `thai_mod.rpa`
+- [ ] Low priority: 3D/ActionEditor dev-tool strings
 
 ## Key Facts
 - All scripts+assets in `game/archive.rpa` (1.09 GB, RPA-3.0, 6,479 files — NO fonts inside)

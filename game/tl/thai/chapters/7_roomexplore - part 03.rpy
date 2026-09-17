@@ -4,17 +4,16 @@
 translate thai plant_hub7_7f54f47c:
 
     # "One that you intend to win."
-    "One that you intend to win."
+    "และ​มัน​คือ​เกม​ที่​คุณ​ตั้งใจ​จะ​ชนะ"
 
 # game/chapters/7_roomexplore.rpy:635
 translate thai plant_hub7_2a9efc21:
 
     # "And the first step to winning is overwatering your plant."
-    "And the first step to winning is overwatering your plant."
+    "และ​ก้าว​แรก​สู่​ชัยชนะ​คือ​การ​รดน้ำต้นไม้​จน​หลง​ล้น"
 
 # game/chapters/7_roomexplore.rpy:636
 translate thai plant_hub7_73b256d7:
 
     # "Obviously."
-    "Obviously."
-
+    "แน่นอน​อยู่แล้ว"

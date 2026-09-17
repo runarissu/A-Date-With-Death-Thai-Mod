@@ -8,35 +8,35 @@ translate thai strings:
 
     # game/extra.rpy:459
     old "Grim Reaper Design 1"
-    new "ดีไซน์ยมทูต 1"
+    new "ดีไซน์​ยมทูต 1"
 
     # game/extra.rpy:460
     old "Grim Reaper Design 2"
-    new "ดีไซน์ยมทูต 2"
+    new "ดีไซน์​ยมทูต 2"
 
     # game/extra.rpy:461
     old "Animation Character Designs"
-    new "ดีไซน์ตัวละครอนิเมชัน"
+    new "ดีไซน์​ตัวละคร​อ​นิ​เม​ชัน"
 
     # game/extra.rpy:462
     old "Animation Storyboards"
-    new "สตอรี่บอร์ดอนิเมชัน"
+    new "สตอ​รี่​บอร์ด​อ​นิ​เม​ชัน"
 
     # game/extra.rpy:463
     old "Sprite Sketches"
-    new "สเก็ตช์สไปรต์"
+    new "สเก็ตช์​ส​ไป​รต์"
 
     # game/extra.rpy:464
     old "Grim Reaper Bedroom Design"
-    new "ดีไซน์ห้องนอนยมทูต"
+    new "ดีไซน์​ห้องนอน​ยมทูต"
 
     # game/extra.rpy:465
     old "Player Bedroom Design"
-    new "ดีไซน์ห้องนอนผู้เล่น"
+    new "ดีไซน์​ห้องนอน​ผู้​เล่น"
 
     # game/extra.rpy:466
     old "Grim Reaper Finalized Bedroom"
-    new "ห้องนอนยมทูตฉบับสมบูรณ์"
+    new "ห้องนอน​ยมทูต​ฉบับ​สมบูรณ์"
 
     # game/extra.rpy:467
     old "Grim Reaper Patreon Artwork #1"
@@ -48,7 +48,7 @@ translate thai strings:
 
     # game/extra.rpy:469
     old "Halloween YCH 2023 Sketch"
-    new "สเก็ตช์ฮาโลวีน YCH 2023"
+    new "สเก็ตช์​ฮาโลวีน YCH 2023"
 
     # game/extra.rpy:470
     old "Halloween YCH 2023"
@@ -68,27 +68,27 @@ translate thai strings:
 
     # game/extra.rpy:474
     old "CG Hugging Azrael Sketch"
-    new "สเก็ตช์ CG กอดอัซราเอล"
+    new "สเก็ตช์ CG กอด​อัซ​รา​เอ​ล"
 
     # game/extra.rpy:475
     old "CG Hugging Azrael"
-    new "CG กอดอัซราเอล"
+    new "CG กอด​อัซ​รา​เอ​ล"
 
     # game/extra.rpy:476
     old "CG On Your Bed Sketches"
-    new "สเก็ตช์ CG บนเตียงของคุณ"
+    new "สเก็ตช์ CG บน​เตียง​ของ​คุณ"
 
     # game/extra.rpy:479
     old "CG On Your Bed"
-    new "CG บนเตียงของคุณ"
+    new "CG บน​เตียง​ของ​คุณ"
 
     # game/extra.rpy:491
     old "CG DLC Duo Reapers Sketch"
-    new "สเก็ตช์ CG ยมทูตคู่ DLC"
+    new "สเก็ตช์ CG ยมทูต​คู่ DLC"
 
     # game/extra.rpy:492
     old "CG DLC Duo Reapers"
-    new "CG ยมทูตคู่ DLC"
+    new "CG ยมทูต​คู่ DLC"
 
     # game/extra.rpy:494
     old "CG Wedding Sketch"
@@ -100,7 +100,7 @@ translate thai strings:
 
     # game/extra.rpy:496
     old "Christmas YCH 2023 Sketch"
-    new "สเก็ตช์คริสต์มาส YCH 2023"
+    new "สเก็ตช์​คริสต์มาส YCH 2023"
 
     # game/extra.rpy:497
     old "Christmas YCH 2023"
@@ -112,7 +112,7 @@ translate thai strings:
 
     # game/extra.rpy:501
     old "Valentines 2024 Sketch"
-    new "สเก็ตช์วาเลนไทน์ 2024"
+    new "สเก็ตช์​วาเลนไทน์ 2024"
 
     # game/extra.rpy:502
     old "CG Fireworks Sketch"
@@ -136,11 +136,11 @@ translate thai strings:
 
     # game/extra.rpy:507
     old "CG Bathtime Sketch"
-    new "สเก็ตช์ CG เวลาอาบน้ำ"
+    new "สเก็ตช์ CG เวลา​อาบน้ำ"
 
     # game/extra.rpy:508
     old "CG Bathtime"
-    new "CG เวลาอาบน้ำ"
+    new "CG เวลา​อาบน้ำ"
 
     # game/extra.rpy:509
     old "CG The Underworld Sketch"
@@ -152,11 +152,11 @@ translate thai strings:
 
     # game/extra.rpy:511
     old "CG Goodbyes Sketch"
-    new "สเก็ตช์ CG การจากลา"
+    new "สเก็ตช์ CG การ​จา​กลา"
 
     # game/extra.rpy:512
     old "CG Goodbyes"
-    new "CG การจากลา"
+    new "CG การ​จา​กลา"
 
     # game/extra.rpy:515
     old "CG NSFW 1"

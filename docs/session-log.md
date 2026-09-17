@@ -95,3 +95,75 @@
 - Created whitelist-style `.gitignore`: `/*` ignores all, re-includes only `docs/`, `game/tl/thai/` (minus `*.rpyc`, `thai_mod.rpa`), and `_create_rpa.py`/`_merge_fonts.py`/`_split_tl.py`
 - Excluded: `renpy/`, `lib/`, `game/` assets, `_tmp_project/` (273M), `_extracted_scripts/` + `_backup_tl_original/` (game-derived content, regenerable), logs/traceback
 - Gotcha: `*` (no slash) matches at ALL depths and re-ignored files inside `thai/` — must use `/*` for root-level ignore
+
+## 2026-09-17 — Translation Pass: Day 3 Complete
+
+### Translated files
+- `chapters/3_day - strings.rpy` — chat choices
+- `chapters/3_day - part 01–08.rpy` — Day 3 chat/call: edgy jokes (เอ็ดจ์), tiny Grim selfie, child diary entries (cute age-appropriate Thai), "Message not sent." → `ส่งข้อความไม่สำเร็จ`
+- `chapters/3_roomexplore` strings + parts 01–02
+
+### Fixes
+- Missing `<>` wrapper on one choice line; stray `{i}` tag not in source; typo in comment path; duplicated comment line in Day 2 file
+
+### Validation
+- 0 residual English; vars/tags/labels preserved across all Day 3 files
+
+## 2026-09-17 — Translation Pass: Day 4 Complete
+
+### Translated files
+- `chapters/4_day - strings.rpy` — chat choices (incl. keyboard-mash joke `asdfghjkl.` → Thai-layout equivalent `ฟหกดเ้็ี`, matching JP approach which localized to JP-layout mash)
+- `chapters/4_day - part 01–13.rpy` — Day 4 chat/call: shower banter, soul-balance/"broken soul disease", Grim's claim on player's soul, reaper rules, Azrael questions, can't-lie mechanic, pineapple-on-pizza, soul contamination/taint, "Goodnight, Sunshine"
+- `chapters/4_roomexplore` strings + parts 01–02 — bed reflection (3 sleep/mood branches), neighbor eavesdrop scene (fate dialogue ×2 variants), all 6 pet naming/grooming branches, plant over-watering gag, `{i}Rovari{/i}` poem → Thai verse โรวารี
+
+### Fixes
+- Malformed label/block in part 13 (~line 58); active lines accidentally commented in roomexplore part 01 (`'...'` quote lines) — rewritten; keyboard-mash kept per JP precedent
+
+### Validation
+- 0 residual English in active/`new` lines; 0 odd-quote lines; tags/`id` suffixes preserved
+- Ren'Py lint: clean for thai files (8,381/8,381 blocks covered); remaining warnings are pre-existing source issues (init priorities, `day6dlc_start` jump, JP TL `{/size}` typo)
+- Fixed `{i}flirt{/}` source typo in `5_day - part 02.rpy` new-string
+- Deleted all stale `tl/thai/**/*.rpyc` before lint
+
+### Next
+- Day 5: `5_day - strings.rpy` + parts + `5_roomexplore`; then Day 6–7, endings, books
+
+## 2026-09-17 — Translation Pass: Day 5 Complete
+
+### Translated files
+- `chapters/5_day - strings.rpy` — 825 chat choices (numbering, `{font=…}` glyph letters, `\n` breaks, `{#ofcday5}` jump label preserved)
+- `chapters/5_day - part 01–13.rpy` — Day 5 chat/call: family/sibling questions, jealous Grim ("ข้าไม่แบ่งใครหรอก ซันไชน์"), dating history, ninja/crab/papercut banter, in-person window visit (raven glamour), real name reveal → แคสเปอร์, sunflower gift scene
+- `chapters/5_roomexplore` strings + parts 01–02 — travel/vacation branches, neighbor door eavesdrop (vulnerable apology ×2 variants), pet history (all 6), plant growth arc, affirmations book
+
+### Fixes
+- `day05callcont_d1be3c83` label typo'd as `call1a_day5_` — corrected
+- Case-sensitive pet vars kept verbatim: `[pet_Her]`/`[pet_She]` (capital variants) not lowercased to `[pet_her2]`/`[pet_she]` — different vars in engine
+
+### Validation
+- 0 residual English in active/`new` lines across all 17 Day 5 files; 0 odd-quote/brace-mismatch lines
+
+### Next
+- Day 6: `6_day - strings.rpy` + parts + `6_roomexplore`; then Day 7, endings, books
+
+## 2026-09-17 — Translation Pass: Day 6 → Endings + Books + Contacts + ZWSP
+
+### Translated files
+- Day 6: `6_day - strings` (469) + parts 01–09 + `6_roomexplore` — validated; `bucket list` intentionally EN; hiss-tory pun adapted to Thai; `{s}…{/s}` strikethrough in diary preserved
+- Day 7: `7_roomexplore` strings + parts 01–03 (Day 7 is roomexplore-only)
+- `bad_end` (4 files, incl. badend_roomexplore), `dlc_end` (5), `end_1` (5), `end_2` (5, 203 pairs) — all validated 0 issues
+- `script - part 01` (intro narration), `lingo - part 01` (minigame text; word list stays EN), `books - strings` (300 pairs, literary; author attributions kept EN; `Beyond the Bet` DLC title kept EN)
+
+### Contacts (Thai DM lists)
+- `replace_screens.rpy` redefines `randomizeDMs()` at `init 10` with a Thai branch: curated pool = DM1–7 (translated via `contacts - strings`) + 5 new Thai contacts (TH_DM1–5, avatars 100–300 exist in archive)
+- Gotcha: `default` vars (DM1, DM_list_*) are NOT set at init — all refs deferred to call time; first version crashed lint with `NameError: DM1`
+- Fixed pre-existing source bug: load screen permanently overwrites `DM_list_*` with JP lists under Japanese — EN pools now rebuilt from DM objects (`_english_dm_pools()`), not trusted `DM_list_*`
+- EN/ไทย overlay toggle now also calls `randomizeDMs()` for parity with game's language buttons
+
+### Thai line breaking
+- Game already sets `gui.language = "unicode"` → unicode line breaker honors ZWSP; `thaic90` mode rejected (re-encodes to PUA our fonts lack); PyICU not used
+- `_insert_zwsp.py`: pythainlp `newmm` tokenizes maximal Thai runs (`\u0E00–\u0E7F`) in active lines only (skips `#` comments + `old` lines) → joins with `\u200b`; idempotent, vars/tags/paths untouched
+- Applied: 130 files / 12,744 lines; lint clean (exit 0), 8,381/8,381 blocks, no thai errors
+
+### Next
+- In-game QA (menu, toggle, char creation, chat/DM, contacts, books, lingo, endings, save/load, wrapping) → `python _create_rpa.py` → `thai_mod.rpa`
+- Low priority: 3D/ActionEditor dev-tool strings; `beyond the bet` DLC scripts have JP TL but no thai tl files generated — scope TBD

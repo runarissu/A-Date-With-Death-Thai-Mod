@@ -4,55 +4,55 @@
 translate thai day4_start2_b426e34d:
 
     # GR "do you see the likeness?"
-    GR "do you see the likeness?"
+    GR "เจ้า​เห็น​ความเหมือน​มั้ย?"
 
 # game/chapters/4_day.rpy:1913
 translate thai day4_start2_df60f2b4:
 
     # player "It's cute!"
-    player "It's cute!"
+    player "น่ารัก​จัง!"
 
 # game/chapters/4_day.rpy:1914
 translate thai day4_start2_faf025c7:
 
     # GR "usually i would argue, however in this case, i believe cute is the right term."
-    GR "usually i would argue, however in this case, i believe cute is the right term."
+    GR "ปกติ​ข้า​จะ​เถียง แต่​ในกรณีนี้ ข้า​เชื่อ​ว่า 'น่ารัก' เป็น​คำ​ที่​ถูกต้อง"
 
 # game/chapters/4_day.rpy:1915
 translate thai day4_start2_ebcea0e2:
 
     # GR "it has compounded all of my handsomeness into a cute roundness."
-    GR "it has compounded all of my handsomeness into a cute roundness."
+    GR "มัน​รวบ​รวมความ​หล่อ​ของ​ข้า​ทั้งหมด​ให้​กลายเป็น​ความกลม​น่ารัก"
 
 # game/chapters/4_day.rpy:1916
 translate thai day4_start2_4a4d7e3f:
 
     # GR "i tipped the artist, as they did a good job."
-    GR "i tipped the artist, as they did a good job."
+    GR "ข้า​ให้​ทิป​ศิลปิน​ด้วย เพราะ​พวกเขา​ทำ​ได้ดี"
 
 # game/chapters/4_day.rpy:1918
 translate thai day4_start2_0c15523c:
 
     # player "It looks a little stupid."
-    player "It looks a little stupid."
+    player "มัน​ดู​โง่​ๆ นิดหน่อย​นะ"
 
 # game/chapters/4_day.rpy:1921
 translate thai day4_start2_aaf6376e:
 
     # player "Like, it's really GOOD... but it's still your face."
-    player "Like, it's really GOOD... but it's still your face."
+    player "คือ มัน​ดีมาก​นะ... แต่​มัน​ก็​ยัง​เป็น​หน้า​เธอ​อยู่ดี"
 
 # game/chapters/4_day.rpy:1922
 translate thai day4_start2_d8954a14:
 
     # GR "what's that supposed to mean?"
-    GR "what's that supposed to mean?"
+    GR "นั่น​หมายความว่า​ไง?"
 
 # game/chapters/4_day.rpy:1925
 translate thai day4_start2_fc9af7ed:
 
     # player "I mean your face is a little stupid."
-    player "I mean your face is a little stupid."
+    player "ฉัน​หมายถึง​หน้า​เธอ​ดู​โง่​ๆ หน่อย​อ่ะ"
 
 # game/chapters/4_day.rpy:1926
 translate thai day4_start2_7772a27d_18:
@@ -64,103 +64,103 @@ translate thai day4_start2_7772a27d_18:
 translate thai day4_start2_a8558ad0:
 
     # GR "this face is my pride and joy."
-    GR "this face is my pride and joy."
+    GR "หน้า​นี้​คือ​ความภาคภูมิใจ​ของ​ข้า​นะ"
 
 # game/chapters/4_day.rpy:1930
 translate thai day4_start2_d9181108:
 
     # player "Oh. Awkward..."
-    player "Oh. Awkward..."
+    player "อ้อ อึดอัด​จัง..."
 
 # game/chapters/4_day.rpy:1932
 translate thai day4_start2_1e17d1bc:
 
     # player "I want to squeeze its cheeks."
-    player "I want to squeeze its cheeks."
+    player "ฉัน​อยาก​หยิก​แก้ม​มัน"
 
 # game/chapters/4_day.rpy:1935
 translate thai day4_start2_c0e8393b:
 
     # player "They're so round and cute!"
-    player "They're so round and cute!"
+    player "แก้ม​มัน​กลม​น่ารัก​มาก!"
 
 # game/chapters/4_day.rpy:1936
 translate thai day4_start2_011e95f0:
 
     # GR "hmph. tiny me wouldn't allow a mortal to squeeze his cheeks so easily."
-    GR "hmph. tiny me wouldn't allow a mortal to squeeze his cheeks so easily."
+    GR "หึ​ม ตัว​จิ๋ว​ของ​ข้า​ไม่​ยอมให้​มนุษย์​หยิก​แก้ม​ง่ายๆ หรอก"
 
 # game/chapters/4_day.rpy:1939
 translate thai day4_start2_366df32b:
 
     # player "What about normal sized you?"
-    player "What about normal sized you?"
+    player "แล้ว​เธอ​ตัว​ขนาด​ปกติ​ล่ะ?"
 
 # game/chapters/4_day.rpy:1940
 translate thai day4_start2_218f9b3f:
 
     # GR "i... what makes you think i would accept that?"
-    GR "i... what makes you think i would accept that?"
+    GR "ข้า... อะไร​ทำให้​เจ้า​คิด​ว่า​ข้า​จะ​ยอม?"
 
 # game/chapters/4_day.rpy:1943
 translate thai day4_start2_7ceb35d2:
 
     # player "You seem like the kind of guy who would like it."
-    player "You seem like the kind of guy who would like it."
+    player "เธอ​ดูเหมือน​ผู้ชาย​ที่​ชอบ​ให้​คน​หยิก​แก้ม​นะ"
 
 # game/chapters/4_day.rpy:1944
 translate thai day4_start2_b5c1b9e1:
 
     # GR "perhaps i would. from you? i cannot say."
-    GR "perhaps i would. from you? i cannot say."
+    GR "บางที​ข้า​อาจ​ชอบ แต่​จาก​เจ้า​เหรอ? ข้า​บอก​ไม่​ได้"
 
 # game/chapters/4_day.rpy:1947
 translate thai day4_start2_bb9015c6:
 
     # player "Anyway... you just sent a human a photo of yourself?"
-    player "Anyway... you just sent a human a photo of yourself?"
+    player "ช่างเถอะ... เธอ​ส่ง​รูป​ตัวเอง​ให้​มนุษย์​จริงๆ เหรอ?"
 
 # game/chapters/4_day.rpy:1949
 translate thai day4_start2_ca423172:
 
     # GR "how else would they capture my likeness?"
-    GR "how else would they capture my likeness?"
+    GR "แล้ว​พวกเขา​จะ​จับภาพ​ความเหมือน​ของ​ข้า​ได้​ยังไง​อีก?"
 
 # game/chapters/4_day.rpy:1953
 translate thai day4_start2_481ddff6:
 
     # player "It's not against your grim reaper rules?"
-    player "It's not against your grim reaper rules?"
+    player "มัน​ไม่​ผิด​กฎ​ยมทูต​ของ​เธอ​เหรอ?"
 
 # game/chapters/4_day.rpy:1955
 translate thai day4_start2_1c6ce16a:
 
     # GR "whether it is or not does not matter."
-    GR "whether it is or not does not matter."
+    GR "ไม่​ว่า​มัน​จะ​ผิด​หรือไม่ ก็​ไม่​สำคัญ"
 
 # game/chapters/4_day.rpy:1958
 translate thai day4_start2_21742c99:
 
     # player "So it is."
-    player "So it is."
+    player "งั้น​มัน​ก็​ผิด​สิ​นะ"
 
 # game/chapters/4_day.rpy:1960
 translate thai day4_start2_bfbf766e:
 
     # GR "...perhaps."
-    GR "...perhaps."
+    GR "...บางที"
 
 # game/chapters/4_day.rpy:1961
 translate thai day4_start2_9cfc94d7:
 
     # GR "however, bending the rules is sometimes necessary."
-    GR "however, bending the rules is sometimes necessary."
+    GR "อย่างไรก็ตาม การหักเห​กฎ​บางครั้ง​ก็​จำเป็น"
 
 # game/chapters/4_day.rpy:1964
 translate thai day4_start2_b7f49ca1:
 
     # player "Are you bending the rules by talking to me?"
-    player "Are you bending the rules by talking to me?"
+    player "เธอ​กำลัง​หักเห​กฎ​ด้วย​การคุย​กับ​ฉัน​เหรอ?"
 
 # game/chapters/4_day.rpy:1965
 translate thai day4_start2_7772a27d_19:
@@ -172,247 +172,247 @@ translate thai day4_start2_7772a27d_19:
 translate thai day4_start2_4ece116c:
 
     # GR "you are clever, [playerfirstname!l]. sometimes too clever."
-    GR "you are clever, [playerfirstname!l]. sometimes too clever."
+    GR "เจ้า​ฉลาด​นะ [playerfirstname!l] บางที​ก็​ฉลาด​เกินไป"
 
 # game/chapters/4_day.rpy:1967
 translate thai day4_start2_a58153e1:
 
     # GR "yes. i am forbidden from speaking to mortals, let alone one whose soul i seek."
-    GR "yes. i am forbidden from speaking to mortals, let alone one whose soul i seek."
+    GR "ใช่ ข้า​ถูก​ห้าม​พูด​กับ​มนุษย์ ยิ่ง​คน​ที่​ข้า​ต้องการ​วิญญาณ​ด้วย​แล้ว​ยิ่ง​ห้าม"
 
 # game/chapters/4_day.rpy:1971
 translate thai day4_start2_0f15e30d:
 
     # player "Breaking all the rules for me then, huh?"
-    player "Breaking all the rules for me then, huh?"
+    player "งั้น​เธอ​ละเมิด​กฎ​ทั้งหมด​เพื่อ​ฉัน​เลย​เหรอ?"
 
 # game/chapters/4_day.rpy:1973
 translate thai day4_start2_b2490fb2:
 
     # GR "for you? don't be ridiculous."
-    GR "for you? don't be ridiculous."
+    GR "เพื่อ​เจ้า​เหรอ? อย่า​ไร้สาระ​ไป​หน่อย​เลย"
 
 # game/chapters/4_day.rpy:1974
 translate thai day4_start2_e75564d1:
 
     # GR "i've broken them only for myself."
-    GR "i've broken them only for myself."
+    GR "ข้า​ละเมิด​กฎ​เพื่อ​ตัว​ข้า​เอง​เท่านั้น"
 
 # game/chapters/4_day.rpy:1978
 translate thai day4_start2_44331dfa:
 
     # player "Wow, breaking my heart over here."
-    player "Wow, breaking my heart over here."
+    player "โอ้โห เธอ​ทำให้​ฉัน​อกหัก​เลย​นะเนี่ย"
 
 # game/chapters/4_day.rpy:1979
 translate thai day4_start2_a91e625a:
 
     # GR "good. you shouldn't fool yourself into believing things that simply cannot be true."
-    GR "good. you shouldn't fool yourself into believing things that simply cannot be true."
+    GR "ดีแล้ว เจ้า​ไม่​ควร​หลอกตัวเอง​ให้​เชื่อ​ใน​สิ่ง​ที่​เป็นไปไม่ได้"
 
 # game/chapters/4_day.rpy:1982
 translate thai day4_start2_4725caa4:
 
     # player "What if I tell on you?"
-    player "What if I tell on you?"
+    player "แล้ว​ถ้า​ฉัน​แฉ​เธอ​ล่ะ?"
 
 # game/chapters/4_day.rpy:1983
 translate thai day4_start2_dc005941:
 
     # GR "tell who?"
-    GR "tell who?"
+    GR "แฉ​ใคร​ล่ะ?"
 
 # game/chapters/4_day.rpy:1987
 translate thai day4_start2_6d012a45:
 
     # player "Your boss!"
-    player "Your boss!"
+    player "เจ้านาย​เธอ​ไง!"
 
 # game/chapters/4_day.rpy:1991
 translate thai day4_start2_6b0b6eae:
 
     # player "You have a boss, right?"
-    player "You have a boss, right?"
+    player "เธอ​มี​เจ้านาย​ใช่​มั้ย?"
 
 # game/chapters/4_day.rpy:1993
 translate thai day4_start2_3c0d3f50:
 
     # GR "and how would you get in contact with this hypothetical boss?"
-    GR "and how would you get in contact with this hypothetical boss?"
+    GR "แล้ว​เจ้า​จะ​ติดต่อ​เจ้านาย​ใน​สมมติฐาน​นั้น​ได้​ยังไง?"
 
 # game/chapters/4_day.rpy:1997
 translate thai day4_start2_1b11c07a:
 
     # player "I could start by programming a strange app and installing it on their computer..."
-    player "I could start by programming a strange app and installing it on their computer..."
+    player "ฉัน​อาจ​เริ่ม​ด้วย​การเขียน​แอ​ป​แปลก​ๆ แล้ว​ติดตั้ง​ลง​คอมพิวเตอร์​ของ​พวกเขา..."
 
 # game/chapters/4_day.rpy:1999
 translate thai day4_start2_b83bf754:
 
     # GR "hah! you cannot even come up with your own plan!"
-    GR "hah! you cannot even come up with your own plan!"
+    GR "ฮ่า! เจ้า​คิด​แผน​ของ​ตัวเอง​ไม่​ได้​ด้วยซ้ำ!"
 
 # game/chapters/4_day.rpy:2003
 translate thai day4_start2_979456ce:
 
     # player "I'm doing it rn."
-    player "I'm doing it rn."
+    player "ฉัน​กำลัง​ทำ​อยู่​ตอนนี้​เลย"
 
 # game/chapters/4_day.rpy:2006
 translate thai day4_start2_c37f8527:
 
     # player "It's installing."
-    player "It's installing."
+    player "มัน​กำลัง​ติดตั้ง"
 
 # game/chapters/4_day.rpy:2008
 translate thai day4_start2_4feebc8f:
 
     # GR "hey, wait a second-"
-    GR "hey, wait a second-"
+    GR "เฮ้ย เดี๋ยวก่อน-"
 
 # game/chapters/4_day.rpy:2012
 translate thai day4_start2_9972da14:
 
     # player "Nearly done. Any second now..."
-    player "Nearly done. Any second now..."
+    player "ใกล้​เสร็จ​แล้ว อีก​ไม่​กี่​วินาที..."
 
 # game/chapters/4_day.rpy:2014
 translate thai day4_start2_7be28c75:
 
     # GR "wait, don't..."
-    GR "wait, don't..."
+    GR "เดี๋ยว อย่า..."
 
 # game/chapters/4_day.rpy:2015
 translate thai day4_start2_d4739def:
 
     # GR "think for a second about what you're doing!"
-    GR "think for a second about what you're doing!"
+    GR "คิด​สัก​วินาที​ว่า​เจ้า​กำลัง​ทำ​อะไร​อยู่!"
 
 # game/chapters/4_day.rpy:2016
 translate thai day4_start2_3d818681:
 
     # GR "i... would be in immense trouble. forget getting fired, i'd just be killed!"
-    GR "i... would be in immense trouble. forget getting fired, i'd just be killed!"
+    GR "ข้า... จะ​เดือดร้อน​มาก อย่า​พูดถึง​การ​โดน​ไล่ออก​เลย ข้า​จะ​โดน​ฆ่า​ตาย​เลย!"
 
 # game/chapters/4_day.rpy:2020
 translate thai day4_start2_dbd8b791:
 
     # player "It's installed."
-    player "It's installed."
+    player "ติดตั้ง​เสร็จ​แล้ว"
 
 # game/chapters/4_day.rpy:2023
 translate thai day4_start2_9a626a5c:
 
     # player "I'm starting to write them a message..."
-    player "I'm starting to write them a message..."
+    player "ฉัน​กำลัง​เริ่ม​เขียน​ข้อความ​ให้​พวกเขา..."
 
 # game/chapters/4_day.rpy:2025
 translate thai day4_start2_926762e3:
 
     # GR "wait!"
-    GR "wait!"
+    GR "เดี๋ยว!"
 
 # game/chapters/4_day.rpy:2026
 translate thai day4_start2_64e89aff:
 
     # GR "p... please? i mean, i know im trying to have you die, but you wouldn't want ME to die, would you?"
-    GR "p... please? i mean, i know im trying to have you die, but you wouldn't want ME to die, would you?"
+    GR "ข... ขอร้อง​ล่ะ? ข้า​รู้​ว่า​ข้า​กำลัง​พยายาม​ให้​เจ้า​ตาย แต่​เจ้า​คง​ไม่​อยาก​ให้​ข้า​ตาย​ใช่​มั้ย?"
 
 # game/chapters/4_day.rpy:2030
 translate thai day4_start2_1b98eb03:
 
     # player "Well..."
-    player "Well..."
+    player "อืม..."
 
 # game/chapters/4_day.rpy:2034
 translate thai day4_start2_26ac2e74:
 
     # player "I suppose I could just uninstall it..."
-    player "I suppose I could just uninstall it..."
+    player "ฉัน​ว่า​ฉัน​อาจจะ​ถอน​การ​ติดตั้ง​มัน​ไป​ก็ได้..."
 
 # game/chapters/4_day.rpy:2035
 translate thai day4_start2_6572996a:
 
     # GR "thank GOD."
-    GR "thank GOD."
+    GR "ขอบคุณ​พระเจ้า"
 
 # game/chapters/4_day.rpy:2038
 translate thai day4_start2_17b3670f:
 
     # player "For my little meowmeow, I guess I can stop..."
-    player "For my little meowmeow, I guess I can stop..."
+    player "เพื่อ​เจ้า​เหมียว​ตัว​น้อย​ของ​ฉัน ฉัน​คง​หยุด​ได้​ล่ะ..."
 
 # game/chapters/4_day.rpy:2039
 translate thai day4_start2_804dd518:
 
     # GR "your little what...?"
-    GR "your little what...?"
+    GR "เจ้าตัว​น้อย​อะไร​นะ...?"
 
 # game/chapters/4_day.rpy:2040
 translate thai day4_start2_9a155274:
 
     # GR "you know what, fine. for this, i can be your little meowmeow(?)."
-    GR "you know what, fine. for this, i can be your little meowmeow(?)."
+    GR "รู้​มั้ย เอาเถอะ เพื่อ​เรื่อง​นี้ ข้า​เป็น​เจ้า​เหมียว​ตัว​น้อย​ของ​เจ้า​ได้(?)"
 
 # game/chapters/4_day.rpy:2044
 translate thai day4_start2_cdf2f46b:
 
     # player "btw I never installed anything in the first place."
-    player "btw I never installed anything in the first place."
+    player "อ้อ จริงๆ ฉัน​ไม่​ได้​ติดตั้ง​อะไร​เลย​ตั้งแต่แรก​นะ"
 
 # game/chapters/4_day.rpy:2045
 translate thai day4_start2_f1783249:
 
     # GR "........what?"
-    GR "........what?"
+    GR "........อะไร​นะ?"
 
 # game/chapters/4_day.rpy:2046
 translate thai day4_start2_1fd99e1a_1:
 
     # GR "ugh."
-    GR "ugh."
+    GR "อ๊าก"
 
 # game/chapters/4_day.rpy:2047
 translate thai day4_start2_0f05ff38:
 
     # GR "mortal, you will know true suffering one of these days."
-    GR "mortal, you will know true suffering one of these days."
+    GR "มนุษย์ วันใดวันหนึ่ง​เจ้า​จะ​รู้จัก​ความทุกข์ทรมาน​ที่​แท้จริง"
 
 # game/chapters/4_day.rpy:2048
 translate thai day4_start2_cbc49cae:
 
     # GR "you will know how i feel."
-    GR "you will know how i feel."
+    GR "เจ้า​จะ​รู้​ว่า​ข้า​รู้สึก​ยังไง"
 
 # game/chapters/4_day.rpy:2049
 translate thai day4_start2_c2dbd5c8:
 
     # GR "you will trick this reaper no longer..."
-    GR "you will trick this reaper no longer..."
+    GR "เจ้า​จะ​หลอก​ยมทูต​คน​นี้​ไม่​ได้​อีกต่อไป..."
 
 # game/chapters/4_day.rpy:2052
 translate thai day4_start2_05802fc2:
 
     # player "But back to that cute little chibi..."
-    player "But back to that cute little chibi..."
+    player "แต่​กลับมา​เรื่อง​จิ​บิ​น่ารัก​ตัว​นั้น​ก่อน..."
 
 # game/chapters/4_day.rpy:2057
 translate thai day4_start2_8ea10288:
 
     # player "So you have that blushing emote..."
-    player "So you have that blushing emote..."
+    player "งั้น​เธอ​มี​อิ​โมจิ​เขิน​แบบ​นั้น​ด้วย..."
 
 # game/chapters/4_day.rpy:2060
 translate thai day4_start2_3195d932:
 
     # player "Is there any more?"
-    player "Is there any more?"
+    player "มี​อีก​มั้ย?"
 
 # game/chapters/4_day.rpy:2062
 translate thai day4_start2_7db3583a:
 
     # GR "i have received a few, depicting a wide range of emotions."
-    GR "i have received a few, depicting a wide range of emotions."
+    GR "ข้า​ได้รับ​มา​หลาย​อัน แสดง​อารมณ์​หลากหลาย"
 
 # game/chapters/4_day.rpy:2066
 translate thai day4_start2_bb09ac9f:
@@ -424,115 +424,115 @@ translate thai day4_start2_bb09ac9f:
 translate thai day4_start2_5419cace:
 
     # player "Did you pose when you took the photos?"
-    player "Did you pose when you took the photos?"
+    player "เธอ​โพสต์​ท่า​ตอน​ถ่ายรูป​เหรอ?"
 
 # game/chapters/4_day.rpy:2071
 translate thai day4_start2_a9641317:
 
     # GR "naturally. how else would the mortal have been able to capture such beauty?"
-    GR "naturally. how else would the mortal have been able to capture such beauty?"
+    GR "แน่นอน แล้ว​มนุษย์​จะ​จับภาพ​ความงาม​ขนาด​นั้น​ได้​ยังไง​อีก?"
 
 # game/chapters/4_day.rpy:2075
 translate thai day4_start2_62780478:
 
     # player "OMG!"
-    player "OMG!"
+    player "โอ้​มาย​ก็​อด!"
 
 # game/chapters/4_day.rpy:2078
 translate thai day4_start2_40cb3cdd:
 
     # player "Then that means..."
-    player "Then that means..."
+    player "งั้น​แปล​ว่า..."
 
 # game/chapters/4_day.rpy:2081
 translate thai day4_start2_05f1a043:
 
     # player "Oh, that's just hilarious."
-    player "Oh, that's just hilarious."
+    player "โอ้ มัน​ขำ​มาก​เลย"
 
 # game/chapters/4_day.rpy:2084
 translate thai day4_start2_4419fabf:
 
     # player "Then you actually... wow, this is making my day."
-    player "Then you actually... wow, this is making my day."
+    player "งั้น​เธอ​จริงๆ... ว้าว นี่​ทำให้​วัน​ฉัน​ดีขึ้น​เลย"
 
 # game/chapters/4_day.rpy:2087
 translate thai day4_start2_959bedac:
 
     # player "Fantastic."
-    player "Fantastic."
+    player "สุดยอด"
 
 # game/chapters/4_day.rpy:2090
 translate thai day4_start2_3a062bb4:
 
     # player "They truly got your good side."
-    player "They truly got your good side."
+    player "พวกเขา​จับ​มุ​มดี​ของ​เธอ​ได้​จริงๆ"
 
 # game/chapters/4_day.rpy:2093
 translate thai day4_start2_bb0f0fa1:
 
     # player "But wait a second..."
-    player "But wait a second..."
+    player "แต่​เดี๋ยวก่อน..."
 
 # game/chapters/4_day.rpy:2096
 translate thai day4_start2_edde59a2:
 
     # player "I'm almost jealous."
-    player "I'm almost jealous."
+    player "ฉัน​เกือบจะ​หึง​แล้ว​นะ"
 
 # game/chapters/4_day.rpy:2099
 translate thai day4_start2_55e5a41f:
 
     # player "Do you have a folder of secret selfies you've taken somewhere, Grim?"
-    player "Do you have a folder of secret selfies you've taken somewhere, Grim?"
+    player "เธอ​มี​โฟลเดอร์​รูป​เซลฟี่​ลับ​ๆ ที่​ถ่าย​ไว้​ที่ไหน​สัก​แห่ง​มั้ย กริม?"
 
 # game/chapters/4_day.rpy:2100
 translate thai day4_start2_03a3b6cb:
 
     # GR "secret selfies..."
-    GR "secret selfies..."
+    GR "เซลฟี่​ลับ..."
 
 # game/chapters/4_day.rpy:2101
 translate thai day4_start2_5a136912:
 
     # GR "if by that you mean pictures of myself, then of course i do."
-    GR "if by that you mean pictures of myself, then of course i do."
+    GR "ถ้า​เจ้า​หมายถึง​รูป​ตัว​ข้า​เอง ก็​แน่นอน​ว่า​ข้า​มี"
 
 # game/chapters/4_day.rpy:2102
 translate thai day4_start2_d0b8aa07:
 
     # GR "i am quite charming, after all. very photogenic, as well." id day4_start2_d0b8aa07
-    GR "i am quite charming, after all. very photogenic, as well." id day4_start2_d0b8aa07
+    GR "ข้า​มีเสน่ห์​มาก​นี่​นา และ​ขึ้นกล้อง​มาก​ด้วย" id day4_start2_d0b8aa07
 
 # game/chapters/4_day.rpy:2105
 translate thai day4_start2_38df18c0:
 
     # player "Wait, seriously?"
-    player "Wait, seriously?"
+    player "เดี๋ยว​นะ จริง​เหรอ?"
 
 # game/chapters/4_day.rpy:2108
 translate thai day4_start2_69eb4117:
 
     # player "Hold on... you said you posed for them, right?"
-    player "Hold on... you said you posed for them, right?"
+    player "เดี๋ยวก่อน... เธอ​บอ​กว่า​เธอ​โพสต์​ท่า​ให้​พวกเขา​ใช่​มั้ย?"
 
 # game/chapters/4_day.rpy:2109
 translate thai day4_start2_c5eebdad:
 
     # GR "i literally just told you that i did."
-    GR "i literally just told you that i did."
+    GR "ข้า​เพิ่ง​บอก​เจ้า​เมื่อกี้นี้​เอง​ว่า​ข้า​ทำ"
 
 # game/chapters/4_day.rpy:2112
 translate thai day4_start2_ca6d099b:
 
     # player "Then that means you..."
-    player "Then that means you..."
+    player "งั้น​แปล​ว่า​เธอ..."
 
 # game/chapters/4_day.rpy:2115
 translate thai day4_start2_9edb757d:
 
     # player "Hehe."
-    player "Hehe."
+    player "ฮิ​ฮิ"
 
 # game/chapters/4_day.rpy:2116
 translate thai day4_start2_b2766aa4_1:
@@ -544,60 +544,60 @@ translate thai day4_start2_b2766aa4_1:
 translate thai day4_start2_8ede3c01_1:
 
     # GR "what?"
-    GR "what?"
+    GR "อะไร?"
 
 # game/chapters/4_day.rpy:2118
 translate thai day4_start2_d6d84808:
 
     # GR "what are you so excited about?"
-    GR "what are you so excited about?"
+    GR "เจ้า​ตื่นเต้น​อะไร​ขนาด​นั้น?"
 
 # game/chapters/4_day.rpy:2121
 translate thai day4_start2_5b29be12:
 
     # player "You pouted in the picture?"
-    player "You pouted in the picture?"
+    player "เธอ​แอ่น​ปาก​ใน​รูป​เหรอ?"
 
 # game/chapters/4_day.rpy:2124
 translate thai day4_start2_663f68a2:
 
     # player "You should have sent it to me!"
-    player "You should have sent it to me!"
+    player "เธอ​น่าจะ​ส่ง​มัน​มา​ให้​ฉัน​นะ!"
 
 # game/chapters/4_day.rpy:2126
 translate thai day4_start2_aa2ad077:
 
     # GR "... why would i send that to you?"
-    GR "... why would i send that to you?"
+    GR "... ทำไม​ข้า​ต้อง​ส่ง​มัน​ให้​เจ้า​ด้วย?"
 
 # game/chapters/4_day.rpy:2132
 translate thai day4_start2_339e34ed:
 
     # player "You do remember that I work as an artist full time right?"
-    player "You do remember that I work as an artist full time right?"
+    player "เธอ​จำได้​ใช่​มั้ย​ว่า​ฉัน​ทำงาน​เป็น​ศิลปิน​เต็มเวลา?"
 
 # game/chapters/4_day.rpy:2135
 translate thai day4_start2_4520012e:
 
     # player "I could have drawn it for you. For free, even."
-    player "I could have drawn it for you. For free, even."
+    player "ฉัน​วาด​ให้​เธอ​ได้​นะ ฟรี​ด้วย"
 
 # game/chapters/4_day.rpy:2138
 translate thai day4_start2_d9ffea63:
 
     # player "Definitely not trying to convince you not to take my soul here."
-    player "Definitely not trying to convince you not to take my soul here."
+    player "ไม่​ได้​พยายาม​โน้มน้าว​ให้​เธอ​ไม่​เอา​วิญญาณ​ฉัน​เลย​นะ"
 
 # game/chapters/4_day.rpy:2139
 translate thai day4_start2_7e215605:
 
     # GR "i would not ask that of you."
-    GR "i would not ask that of you."
+    GR "ข้า​ไม่​ขอ​แบบ​นั้น​จาก​เจ้า​หรอก"
 
 # game/chapters/4_day.rpy:2140
 translate thai day4_start2_a94b2f6e:
 
     # GR "even a mortal deserves to be paid for labor."
-    GR "even a mortal deserves to be paid for labor."
+    GR "แม้แต่​มนุษย์​ก็​สมควร​ได้รับ​ค่าจ้าง​สำหรับ​แรงงาน"
 
 # game/chapters/4_day.rpy:2143

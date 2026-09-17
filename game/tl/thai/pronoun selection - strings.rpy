@@ -24,11 +24,11 @@ translate thai strings:
 
     # game/pronoun selection.rpy:27
     old "their"
-    new "ของเขา"
+    new "ของ​เขา"
 
     # game/pronoun selection.rpy:28
     old "Their"
-    new "ของเขา"
+    new "ของ​เขา"
 
     # game/pronoun selection.rpy:42
     old "Girl"
@@ -72,7 +72,7 @@ translate thai strings:
 
     # game/pronoun selection.rpy:56
     old "nb"
-    new "นอนไบนารี"
+    new "นอน​ไบนารี"
 
     # game/pronoun selection.rpy:57
     old "person"
@@ -112,15 +112,15 @@ translate thai strings:
 
     # game/pronoun selection.rpy:73
     old "divine"
-    new "งดงามดั่งเทพ"
+    new "งดงาม​ดั่ง​เทพ"
 
     # game/pronoun selection.rpy:164
     old "Custom Pronouns"
-    new "สรรพนามกำหนดเอง"
+    new "สรรพนาม​กำหนด​เอง"
 
     # game/pronoun selection.rpy:209
     old "Custom Descriptive Words"
-    new "คำคุณศัพท์กำหนดเอง"
+    new "คำคุณศัพท์​กำหนด​เอง"
 
     # game/pronoun selection.rpy:226
     old "Pretty/Cute"

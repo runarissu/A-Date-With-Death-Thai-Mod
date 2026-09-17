@@ -4,15 +4,15 @@ translate thai strings:
 
     # renpy/common/00accessibility.rpy:28
     old "Self-voicing disabled."
-    new "ปิดการอ่านออกเสียงแล้ว."
+    new "ปิด​การ​อ่าน​ออกเสียง​แล้ว."
 
     # renpy/common/00accessibility.rpy:29
     old "Clipboard voicing enabled. "
-    new "เปิดการอ่านคลิปบอร์ดแล้ว. "
+    new "เปิด​การ​อ่าน​คลิป​บอร์ด​แล้ว. "
 
     # renpy/common/00accessibility.rpy:30
     old "Self-voicing enabled. "
-    new "เปิดการอ่านออกเสียงแล้ว. "
+    new "เปิด​การ​อ่าน​ออกเสียง​แล้ว. "
 
     # renpy/common/00accessibility.rpy:32
     old "bar"
@@ -20,27 +20,27 @@ translate thai strings:
 
     # renpy/common/00accessibility.rpy:33
     old "selected"
-    new "ที่เลือก"
+    new "ที่​เลือก"
 
     # renpy/common/00accessibility.rpy:34
     old "viewport"
-    new "วิวพอร์ต"
+    new "วิว​พอร์ต"
 
     # renpy/common/00accessibility.rpy:35
     old "horizontal scroll"
-    new "เลื่อนแนวนอน"
+    new "เลื่อน​แนวนอน"
 
     # renpy/common/00accessibility.rpy:36
     old "vertical scroll"
-    new "เลื่อนแนวตั้ง"
+    new "เลื่อน​แนวตั้ง"
 
     # renpy/common/00accessibility.rpy:37
     old "activate"
-    new "เปิดใช้"
+    new "เปิด​ใช้"
 
     # renpy/common/00accessibility.rpy:38
     old "deactivate"
-    new "ปิดใช้"
+    new "ปิด​ใช้"
 
     # renpy/common/00accessibility.rpy:39
     old "increase"
@@ -52,15 +52,15 @@ translate thai strings:
 
     # renpy/common/00accessibility.rpy:120
     old "Accessibility Menu. Use up and down arrows to navigate, and enter to activate buttons and bars."
-    new "เมนูการเข้าถึง ใช้ปุ่มลูกศรขึ้นลงเพื่อเลื่อน และกด enter เพื่อเปิดใช้ปุ่มและแถบต่างๆ"
+    new "เมนู​การ​เข้าถึง ใช้​ปุ่ม​ลูกศร​ขึ้น​ลง​เพื่อ​เลื่อน และ​กด enter เพื่อ​เปิด​ใช้​ปุ่ม​และ​แถบ​ต่างๆ"
 
     # renpy/common/00accessibility.rpy:139
     old "Font Override"
-    new "แทนที่ฟอนต์"
+    new "แทนที่​ฟอนต์"
 
     # renpy/common/00accessibility.rpy:143
     old "Default"
-    new "ค่าเริ่มต้น"
+    new "ค่า​เริ่มต้น"
 
     # renpy/common/00accessibility.rpy:147
     old "DejaVu Sans"
@@ -72,7 +72,7 @@ translate thai strings:
 
     # renpy/common/00accessibility.rpy:157
     old "Text Size Scaling"
-    new "การปรับขนาดตัวอักษร"
+    new "การ​ปรับ​ขนาด​ตัวอักษร"
 
     # renpy/common/00accessibility.rpy:163
     old "Reset"
@@ -80,71 +80,71 @@ translate thai strings:
 
     # renpy/common/00accessibility.rpy:169
     old "Line Spacing Scaling"
-    new "การปรับระยะห่างบรรทัด"
+    new "การ​ปรับ​ระยะห่าง​บรรทัด"
 
     # renpy/common/00accessibility.rpy:181
     old "High Contrast Text"
-    new "ตัวอักษรคอนทราสต์สูง"
+    new "ตัวอักษร​คอ​นท​ราสต์​สูง"
 
     # renpy/common/00accessibility.rpy:183
     old "Enable"
-    new "เปิดใช้"
+    new "เปิด​ใช้"
 
     # renpy/common/00accessibility.rpy:187
     old "Disable"
-    new "ปิดใช้"
+    new "ปิด​ใช้"
 
     # renpy/common/00accessibility.rpy:194
     old "Self-Voicing"
-    new "การอ่านออกเสียง"
+    new "การ​อ่าน​ออกเสียง"
 
     # renpy/common/00accessibility.rpy:202
     old "Text-to-speech"
-    new "ข้อความเป็นเสียง"
+    new "ข้อความ​เป็น​เสียง"
 
     # renpy/common/00accessibility.rpy:206
     old "Clipboard"
-    new "คลิปบอร์ด"
+    new "คลิป​บอร์ด"
 
     # renpy/common/00accessibility.rpy:210
     old "Debug"
-    new "ดีบัก"
+    new "ดี​บัก"
 
     # renpy/common/00accessibility.rpy:216
     old "Voice Volume"
-    new "ระดับเสียงพากย์"
+    new "ระดับเสียง​พากย์"
 
     # renpy/common/00accessibility.rpy:224
     old "Self-Voicing Volume Drop"
-    new "การลดเสียงเมื่ออ่านออกเสียง"
+    new "การ​ลด​เสียง​เมื่อ​อ่าน​ออกเสียง"
 
     # renpy/common/00accessibility.rpy:235
     old "The options on this menu are intended to improve accessibility. They may not work with all games, and some combinations of options may render the game unplayable. This is not an issue with the game or engine. For the best results when changing fonts, try to keep the text size the same as it originally was."
-    new "ตัวเลือกในเมนูนี้มีไว้เพื่อเพิ่มการเข้าถึง อาจใช้ไม่ได้กับทุกเกม และการตั้งค่าบางอย่างร่วมกันอาจทำให้เล่นเกมไม่ได้ ซึ่งไม่ใช่ปัญหาของเกมหรือเอนจิน เพื่อผลลัพธ์ที่ดีที่สุดเมื่อเปลี่ยนฟอนต์ ควรคงขนาดตัวอักษรให้เท่ากับตอนแรก"
+    new "ตัวเลือก​ใน​เมนู​นี้​มี​ไว้​เพื่อ​เพิ่ม​การ​เข้าถึง อาจ​ใช้ไม่ได้​กับ​ทุก​เกม และ​การ​ตั้งค่า​บางอย่าง​ร่วมกัน​อาจ​ทำให้​เล่น​เกม​ไม่​ได้ ซึ่ง​ไม่​ใช่​ปัญหา​ของ​เกม​หรือ​เอนจิน เพื่อ​ผลลัพธ์​ที่​ดี​ที่สุด​เมื่อ​เปลี่ยน​ฟอนต์ ควร​คง​ขนาด​ตัวอักษร​ให้​เท่ากับ​ตอนแรก"
 
     # renpy/common/00action_file.rpy:26
     old "{#weekday}Monday"
-    new "{#weekday}วันจันทร์"
+    new "{#weekday}วัน​จันทร์"
 
     # renpy/common/00action_file.rpy:26
     old "{#weekday}Tuesday"
-    new "{#weekday}วันอังคาร"
+    new "{#weekday}วัน​อังคาร"
 
     # renpy/common/00action_file.rpy:26
     old "{#weekday}Wednesday"
-    new "{#weekday}วันพุธ"
+    new "{#weekday}วัน​พุธ"
 
     # renpy/common/00action_file.rpy:26
     old "{#weekday}Thursday"
-    new "{#weekday}วันพฤหัสบดี"
+    new "{#weekday}วัน​พฤหัสบดี"
 
     # renpy/common/00action_file.rpy:26
     old "{#weekday}Friday"
-    new "{#weekday}วันศุกร์"
+    new "{#weekday}วัน​ศุกร์"
 
     # renpy/common/00action_file.rpy:26
     old "{#weekday}Saturday"
-    new "{#weekday}วันเสาร์"
+    new "{#weekday}วัน​เสาร์"
 
     # renpy/common/00action_file.rpy:26
     old "{#weekday}Sunday"
@@ -280,27 +280,27 @@ translate thai strings:
 
     # renpy/common/00action_file.rpy:395
     old "Save slot %s: [text]"
-    new "ช่องเซฟ %s: [text]"
+    new "ช่อง​เซฟ %s: [text]"
 
     # renpy/common/00action_file.rpy:480
     old "Load slot %s: [text]"
-    new "ช่องโหลด %s: [text]"
+    new "ช่อง​โหลด %s: [text]"
 
     # renpy/common/00action_file.rpy:533
     old "Delete slot [text]"
-    new "ลบช่อง [text]"
+    new "ลบ​ช่อง [text]"
 
     # renpy/common/00action_file.rpy:612
     old "File page auto"
-    new "หน้าไฟล์ออโต้"
+    new "หน้า​ไฟล์​ออโต้"
 
     # renpy/common/00action_file.rpy:614
     old "File page quick"
-    new "หน้าไฟล์ด่วน"
+    new "หน้า​ไฟล์​ด่วน"
 
     # renpy/common/00action_file.rpy:616
     old "File page [text]"
-    new "หน้าไฟล์ [text]"
+    new "หน้า​ไฟล์ [text]"
 
     # renpy/common/00action_file.rpy:674
     old "Page {}"
@@ -308,31 +308,31 @@ translate thai strings:
 
     # renpy/common/00action_file.rpy:674
     old "Automatic saves"
-    new "เซฟอัตโนมัติ"
+    new "เซฟ​อัตโนมัติ"
 
     # renpy/common/00action_file.rpy:674
     old "Quick saves"
-    new "เซฟด่วน"
+    new "เซฟ​ด่วน"
 
     # renpy/common/00action_file.rpy:815
     old "Next file page."
-    new "หน้าไฟล์ถัดไป."
+    new "หน้า​ไฟล์​ถัดไป."
 
     # renpy/common/00action_file.rpy:887
     old "Previous file page."
-    new "หน้าไฟล์ก่อนหน้า."
+    new "หน้า​ไฟล์​ก่อนหน้า."
 
     # renpy/common/00action_file.rpy:948
     old "Quick save complete."
-    new "เซฟด่วนเสร็จสิ้น."
+    new "เซฟ​ด่วน​เสร็จสิ้น."
 
     # renpy/common/00action_file.rpy:963
     old "Quick save."
-    new "เซฟด่วน."
+    new "เซฟ​ด่วน."
 
     # renpy/common/00action_file.rpy:982
     old "Quick load."
-    new "โหลดด่วน."
+    new "โหลด​ด่วน."
 
     # renpy/common/00action_other.rpy:383
     old "Language [text]"
@@ -340,11 +340,11 @@ translate thai strings:
 
     # renpy/common/00action_other.rpy:746
     old "Open [text] directory."
-    new "เปิดโฟลเดอร์ [text]"
+    new "เปิด​โฟลเดอร์ [text]"
 
     # renpy/common/00director.rpy:712
     old "The interactive director is not enabled here."
-    new "ยังไม่ได้เปิดใช้ interactive director ตรงนี้"
+    new "ยัง​ไม่​ได้​เปิด​ใช้ interactive director ตรงนี้"
 
     # renpy/common/00director.rpy:1511
     old "⬆"
@@ -368,15 +368,15 @@ translate thai strings:
 
     # renpy/common/00director.rpy:1593
     old "(attributes)"
-    new "(แอตทริบิวต์)"
+    new "(แอ​ตท​ริ​บิวต์)"
 
     # renpy/common/00director.rpy:1594
     old "(transform)"
-    new "(ทรานส์ฟอร์ม)"
+    new "(ทรานส์​ฟอร์ม)"
 
     # renpy/common/00director.rpy:1619
     old "(transition)"
-    new "(ทรานซิชัน)"
+    new "(ท​ราน​ซิ​ชัน)"
 
     # renpy/common/00director.rpy:1631
     old "(channel)"
@@ -384,7 +384,7 @@ translate thai strings:
 
     # renpy/common/00director.rpy:1632
     old "(filename)"
-    new "(ชื่อไฟล์)"
+    new "(ชื่อ​ไฟล์)"
 
     # renpy/common/00director.rpy:1661
     old "Change"
@@ -412,23 +412,23 @@ translate thai strings:
 
     # renpy/common/00director.rpy:1741
     old "Attributes:"
-    new "แอตทริบิวต์:"
+    new "แอ​ตท​ริ​บิวต์:"
 
     # renpy/common/00director.rpy:1752
     old "Click to toggle attribute, right click to toggle negative attribute."
-    new "คลิกเพื่อสลับแอตทริบิวต์ คลิกขวาเพื่อสลับแอตทริบิวต์เชิงลบ"
+    new "คลิก​เพื่อ​สลับ​แอ​ตท​ริ​บิวต์ คลิก​ขวา​เพื่อ​สลับ​แอ​ตท​ริ​บิวต์​เชิงลบ"
 
     # renpy/common/00director.rpy:1764
     old "Transforms:"
-    new "ทรานส์ฟอร์ม:"
+    new "ทรานส์​ฟอร์ม:"
 
     # renpy/common/00director.rpy:1775
     old "Click to set transform, right click to add to transform list."
-    new "คลิกเพื่อตั้งทรานส์ฟอร์ม คลิกขวาเพื่อเพิ่มในรายการทรานส์ฟอร์ม"
+    new "คลิก​เพื่อ​ตั้ง​ทรานส์​ฟอร์ม คลิก​ขวา​เพื่อ​เพิ่ม​ใน​รายการ​ทรานส์​ฟอร์ม"
 
     # renpy/common/00director.rpy:1776
     old "Customize director.transforms to add more transforms."
-    new "ปรับแต่ง director.transforms เพื่อเพิ่มทรานส์ฟอร์ม"
+    new "ปรับ​แต่ง director.transforms เพื่อ​เพิ่ม​ทรานส์​ฟอร์ม"
 
     # renpy/common/00director.rpy:1788
     old "Behind:"
@@ -436,19 +436,19 @@ translate thai strings:
 
     # renpy/common/00director.rpy:1799
     old "Click to set, right click to add to behind list."
-    new "คลิกเพื่อตั้งค่า คลิกขวาเพื่อเพิ่มในรายการด้านหลัง"
+    new "คลิก​เพื่อ​ตั้งค่า คลิก​ขวา​เพื่อ​เพิ่ม​ใน​รายการ​ด้านหลัง"
 
     # renpy/common/00director.rpy:1811
     old "Transition:"
-    new "ทรานซิชัน:"
+    new "ท​ราน​ซิ​ชัน:"
 
     # renpy/common/00director.rpy:1821
     old "Click to set."
-    new "คลิกเพื่อตั้งค่า."
+    new "คลิก​เพื่อ​ตั้งค่า."
 
     # renpy/common/00director.rpy:1822
     old "Customize director.transitions to add more transitions."
-    new "ปรับแต่ง director.transitions เพื่อเพิ่มทรานซิชัน"
+    new "ปรับ​แต่ง director.transitions เพื่อ​เพิ่ม​ท​ราน​ซิ​ชัน"
 
     # renpy/common/00director.rpy:1834
     old "Channel:"
@@ -456,103 +456,103 @@ translate thai strings:
 
     # renpy/common/00director.rpy:1845
     old "Customize director.audio_channels to add more channels."
-    new "ปรับแต่ง director.audio_channels เพื่อเพิ่มแชนเนล"
+    new "ปรับ​แต่ง director.audio_channels เพื่อ​เพิ่ม​แชนเนล"
 
     # renpy/common/00director.rpy:1857
     old "Audio Filename:"
-    new "ชื่อไฟล์เสียง:"
+    new "ชื่อ​ไฟล์​เสียง:"
 
     # renpy/common/00gui.rpy:448
     old "Are you sure?"
-    new "แน่ใจไหม?"
+    new "แน่ใจ​ไหม?"
 
     # renpy/common/00gui.rpy:449
     old "Are you sure you want to delete this save?"
-    new "แน่ใจไหมว่าจะลบเซฟนี้?"
+    new "แน่ใจ​ไหม​ว่า​จะ​ลบ​เซฟ​นี้?"
 
     # renpy/common/00gui.rpy:450
     old "Are you sure you want to overwrite your save?"
-    new "แน่ใจไหมว่าจะเขียนทับเซฟ?"
+    new "แน่ใจ​ไหม​ว่า​จะ​เขียน​ทับ​เซฟ?"
 
     # renpy/common/00gui.rpy:451
     old "Loading will lose unsaved progress.\nAre you sure you want to do this?"
-    new "การโหลดจะทำให้ความคืบหน้าที่ยังไม่ได้เซฟหายไป\nแน่ใจไหมว่าจะทำ?"
+    new "การ​โหลด​จะ​ทำให้​ความคืบหน้า​ที่​ยัง​ไม่​ได้​เซฟ​หาย​ไป\nแน่ใจ​ไหม​ว่า​จะ​ทำ?"
 
     # renpy/common/00gui.rpy:452
     old "Are you sure you want to quit?"
-    new "แน่ใจไหมว่าจะออกจากเกม?"
+    new "แน่ใจ​ไหม​ว่า​จะ​ออกจาก​เกม?"
 
     # renpy/common/00gui.rpy:453
     old "Are you sure you want to return to the main menu?\nThis will lose unsaved progress."
-    new "แน่ใจไหมว่าจะกลับไปเมนูหลัก?\nความคืบหน้าที่ยังไม่ได้เซฟจะหายไป"
+    new "แน่ใจ​ไหม​ว่า​จะ​กลับ​ไป​เมนูหลัก?\nความคืบหน้า​ที่​ยัง​ไม่​ได้​เซฟ​จะ​หาย​ไป"
 
     # renpy/common/00gui.rpy:454
     old "Are you sure you want to continue where you left off?"
-    new "แน่ใจไหมว่าจะเล่นต่อจากที่ค้างไว้?"
+    new "แน่ใจ​ไหม​ว่า​จะ​เล่น​ต่อ​จาก​ที่​ค้าง​ไว้?"
 
     # renpy/common/00gui.rpy:455
     old "Are you sure you want to end the replay?"
-    new "แน่ใจไหมว่าจะจบการเล่นซ้ำ?"
+    new "แน่ใจ​ไหม​ว่า​จะ​จบ​การ​เล่น​ซ้ำ?"
 
     # renpy/common/00gui.rpy:456
     old "Are you sure you want to begin skipping?"
-    new "แน่ใจไหมว่าจะเริ่มข้าม?"
+    new "แน่ใจ​ไหม​ว่า​จะ​เริ่ม​ข้าม?"
 
     # renpy/common/00gui.rpy:457
     old "Are you sure you want to skip to the next choice?"
-    new "แน่ใจไหมว่าจะข้ามไปถึงตัวเลือกถัดไป?"
+    new "แน่ใจ​ไหม​ว่า​จะ​ข้าม​ไป​ถึง​ตัวเลือก​ถัดไป?"
 
     # renpy/common/00gui.rpy:458
     old "Are you sure you want to skip unseen dialogue to the next choice?"
-    new "แน่ใจไหมว่าจะข้ามบทสนทนาที่ยังไม่เคยอ่านไปถึงตัวเลือกถัดไป?"
+    new "แน่ใจ​ไหม​ว่า​จะ​ข้าม​บทสนทนา​ที่​ยัง​ไม่​เคย​อ่าน​ไป​ถึง​ตัวเลือก​ถัดไป?"
 
     # renpy/common/00gui.rpy:459
     old "This save was created on a different device. Maliciously constructed save files can harm your computer. Do you trust this save's creator and everyone who could have changed the file?"
-    new "เซฟนี้สร้างจากอุปกรณ์เครื่องอื่น ไฟล์เซฟที่ถูกสร้างขึ้นมุ่งร้ายอาจทำอันตรายต่อคอมพิวเตอร์ของคุณ คุณไว้ใจผู้สร้างเซฟนี้และทุกคนที่อาจแก้ไขไฟล์นี้หรือไม่?"
+    new "เซฟ​นี้​สร้าง​จาก​อุปกรณ์​เครื่อง​อื่น ไฟล์​เซฟ​ที่​ถูก​สร้าง​ขึ้น​มุ่งร้าย​อาจ​ทำอันตราย​ต่อ​คอมพิวเตอร์​ของ​คุณ คุณ​ไว้ใจ​ผู้สร้าง​เซฟ​นี้​และ​ทุกคน​ที่​อาจ​แก้ไข​ไฟล์​นี้​หรือไม่?"
 
     # renpy/common/00gui.rpy:460
     old "Do you trust the device the save was created on? You should only choose yes if you are the device's sole user."
-    new "คุณไว้ใจอุปกรณ์ที่สร้างเซฟนี้หรือไม่? ควรเลือกใช่ก็ต่อเมื่อคุณเป็นผู้ใช้เพียงคนเดียวของอุปกรณ์นั้นเท่านั้น"
+    new "คุณ​ไว้ใจ​อุปกรณ์​ที่​สร้าง​เซฟ​นี้​หรือไม่? ควร​เลือก​ใช่​ก็ต่อเมื่อ​คุณ​เป็น​ผู้ใช้​เพียง​คนเดียว​ของ​อุปกรณ์​นั้น​เท่านั้น"
 
     # renpy/common/00keymap.rpy:323
     old "Failed to save screenshot as %s."
-    new "บันทึกภาพหน้าจอเป็น %s ไม่สำเร็จ."
+    new "บันทึกภาพ​หน้าจอ​เป็น %s ไม่​สำเร็จ."
 
     # renpy/common/00keymap.rpy:335
     old "Saved screenshot as %s."
-    new "บันทึกภาพหน้าจอเป็น %s แล้ว."
+    new "บันทึกภาพ​หน้าจอ​เป็น %s แล้ว."
 
     # renpy/common/00library.rpy:248
     old "Skip Mode"
-    new "โหมดข้าม"
+    new "โหมด​ข้าม"
 
     # renpy/common/00library.rpy:317
     old "This program contains free software under a number of licenses, including the MIT License and GNU Lesser General Public License. A complete list of software, including links to full source code, can be found {a=https://www.renpy.org/l/license}here{/a}."
-    new "โปรแกรมนี้มีซอฟต์แวร์ฟรีภายใต้สัญญาอนุญาตหลายฉบับ รวมถึง MIT License และ GNU Lesser General Public License ดูรายการซอฟต์แวร์ทั้งหมดพร้อมลิงก์ซอร์สโค้ดฉบับเต็มได้{a=https://www.renpy.org/l/license}ที่นี่{/a}"
+    new "โปรแกรม​นี้​มี​ซอฟต์แวร์​ฟรี​ภายใต้​สัญญา​อนุญาต​หลาย​ฉบับ รวมถึง MIT License และ GNU Lesser General Public License ดู​รายการ​ซอฟต์แวร์​ทั้งหมด​พร้อม​ลิงก์​ซอร์ส​โค้ด​ฉบับ​เต็ม​ได้{a=https://www.renpy.org/l/license}ที่นี่{/a}"
 
     # renpy/common/00preferences.rpy:288
     old "display"
-    new "การแสดงผล"
+    new "การ​แสดงผล"
 
     # renpy/common/00preferences.rpy:308
     old "transitions"
-    new "ทรานซิชัน"
+    new "ท​ราน​ซิ​ชัน"
 
     # renpy/common/00preferences.rpy:317
     old "skip transitions"
-    new "ข้ามทรานซิชัน"
+    new "ข้า​มท​ราน​ซิ​ชัน"
 
     # renpy/common/00preferences.rpy:319
     old "video sprites"
-    new "วิดีโอสไปรต์"
+    new "วิดีโอ​ส​ไป​รต์"
 
     # renpy/common/00preferences.rpy:328
     old "show empty window"
-    new "แสดงหน้าต่างว่าง"
+    new "แสดง​หน้าต่าง​ว่าง"
 
     # renpy/common/00preferences.rpy:337
     old "text speed"
-    new "ความเร็วตัวอักษร"
+    new "ความเร็ว​ตัวอักษร"
 
     # renpy/common/00preferences.rpy:345
     old "joystick"
@@ -568,159 +568,159 @@ translate thai strings:
 
     # renpy/common/00preferences.rpy:355
     old "skip unseen [text]"
-    new "ข้าม [text] ที่ยังไม่ได้อ่าน"
+    new "ข้าม [text] ที่​ยัง​ไม่​ได้​อ่าน"
 
     # renpy/common/00preferences.rpy:360
     old "skip unseen text"
-    new "ข้ามข้อความที่ยังไม่ได้อ่าน"
+    new "ข้าม​ข้อความ​ที่​ยัง​ไม่​ได้​อ่าน"
 
     # renpy/common/00preferences.rpy:362
     old "begin skipping"
-    new "เริ่มข้าม"
+    new "เริ่ม​ข้าม"
 
     # renpy/common/00preferences.rpy:366
     old "after choices"
-    new "หลังตัวเลือก"
+    new "หลัง​ตัวเลือก"
 
     # renpy/common/00preferences.rpy:373
     old "skip after choices"
-    new "ข้ามหลังตัวเลือก"
+    new "ข้าม​หลัง​ตัวเลือก"
 
     # renpy/common/00preferences.rpy:375
     old "auto-forward time"
-    new "เวลาเล่นอัตโนมัติ"
+    new "เวลาเล่น​อัตโนมัติ"
 
     # renpy/common/00preferences.rpy:389
     old "auto-forward"
-    new "เล่นอัตโนมัติ"
+    new "เล่น​อัตโนมัติ"
 
     # renpy/common/00preferences.rpy:396
     old "Auto forward"
-    new "เล่นอัตโนมัติ"
+    new "เล่น​อัตโนมัติ"
 
     # renpy/common/00preferences.rpy:399
     old "auto-forward after click"
-    new "เล่นอัตโนมัติหลังคลิก"
+    new "เล่น​อัตโนมัติ​หลัง​คลิก"
 
     # renpy/common/00preferences.rpy:408
     old "automatic move"
-    new "เลื่อนอัตโนมัติ"
+    new "เลื่อน​อัตโนมัติ"
 
     # renpy/common/00preferences.rpy:417
     old "wait for voice"
-    new "รอเสียงพากย์"
+    new "รอ​เสียง​พากย์"
 
     # renpy/common/00preferences.rpy:426
     old "voice sustain"
-    new "คงเสียงพากย์"
+    new "คง​เสียง​พากย์"
 
     # renpy/common/00preferences.rpy:435
     old "self voicing"
-    new "อ่านออกเสียง"
+    new "อ่าน​ออกเสียง"
 
     # renpy/common/00preferences.rpy:438
     old "self voicing enable"
-    new "เปิดอ่านออกเสียง"
+    new "เปิด​อ่าน​ออกเสียง"
 
     # renpy/common/00preferences.rpy:440
     old "self voicing disable"
-    new "ปิดอ่านออกเสียง"
+    new "ปิด​อ่าน​ออกเสียง"
 
     # renpy/common/00preferences.rpy:444
     old "self voicing volume drop"
-    new "ลดเสียงเมื่ออ่านออกเสียง"
+    new "ลด​เสียง​เมื่อ​อ่าน​ออกเสียง"
 
     # renpy/common/00preferences.rpy:452
     old "clipboard voicing"
-    new "อ่านคลิปบอร์ด"
+    new "อ่าน​คลิป​บอร์ด"
 
     # renpy/common/00preferences.rpy:455
     old "clipboard voicing enable"
-    new "เปิดอ่านคลิปบอร์ด"
+    new "เปิด​อ่าน​คลิป​บอร์ด"
 
     # renpy/common/00preferences.rpy:457
     old "clipboard voicing disable"
-    new "ปิดอ่านคลิปบอร์ด"
+    new "ปิด​อ่าน​คลิป​บอร์ด"
 
     # renpy/common/00preferences.rpy:461
     old "debug voicing"
-    new "ดีบักการอ่านเสียง"
+    new "ดี​บัก​การ​อ่าน​เสียง"
 
     # renpy/common/00preferences.rpy:464
     old "debug voicing enable"
-    new "เปิดดีบักการอ่านเสียง"
+    new "เปิด​ดี​บัก​การ​อ่าน​เสียง"
 
     # renpy/common/00preferences.rpy:466
     old "debug voicing disable"
-    new "ปิดดีบักการอ่านเสียง"
+    new "ปิด​ดี​บัก​การ​อ่าน​เสียง"
 
     # renpy/common/00preferences.rpy:470
     old "emphasize audio"
-    new "เน้นเสียง"
+    new "เน้น​เสียง"
 
     # renpy/common/00preferences.rpy:479
     old "rollback side"
-    new "ด้านย้อนกลับ"
+    new "ด้าน​ย้อนกลับ"
 
     # renpy/common/00preferences.rpy:489
     old "gl powersave"
-    new "GL ประหยัดพลังงาน"
+    new "GL ประหยัด​พลังงาน"
 
     # renpy/common/00preferences.rpy:495
     old "gl framerate"
-    new "GL เฟรมเรต"
+    new "GL เฟรม​เรต"
 
     # renpy/common/00preferences.rpy:498
     old "gl tearing"
-    new "GL ภาพฉีก"
+    new "GL ภาพ​ฉีก"
 
     # renpy/common/00preferences.rpy:501
     old "font transform"
-    new "การแปลงฟอนต์"
+    new "การ​แปลง​ฟอนต์"
 
     # renpy/common/00preferences.rpy:504
     old "font size"
-    new "ขนาดฟอนต์"
+    new "ขนาด​ฟอนต์"
 
     # renpy/common/00preferences.rpy:512
     old "font line spacing"
-    new "ระยะห่างบรรทัดฟอนต์"
+    new "ระยะห่าง​บรรทัด​ฟอนต์"
 
     # renpy/common/00preferences.rpy:520
     old "system cursor"
-    new "เคอร์เซอร์ระบบ"
+    new "เคอร์เซอร์​ระบบ"
 
     # renpy/common/00preferences.rpy:529
     old "renderer menu"
-    new "เมนูเรนเดอเรอร์"
+    new "เมนู​เร​น​เด​อเรอร์"
 
     # renpy/common/00preferences.rpy:532
     old "accessibility menu"
-    new "เมนูการเข้าถึง"
+    new "เมนู​การ​เข้าถึง"
 
     # renpy/common/00preferences.rpy:535
     old "high contrast text"
-    new "ตัวอักษรคอนทราสต์สูง"
+    new "ตัวอักษร​คอ​นท​ราสต์​สูง"
 
     # renpy/common/00preferences.rpy:544
     old "audio when minimized"
-    new "เสียงเมื่อย่อหน้าต่าง"
+    new "เสียง​เมื่อ​ย่อ​หน้าต่าง"
 
     # renpy/common/00preferences.rpy:553
     old "audio when unfocused"
-    new "เสียงเมื่อไม่โฟกัส"
+    new "เสียง​เมื่อ​ไม่​โฟกัส"
 
     # renpy/common/00preferences.rpy:562
     old "web cache preload"
-    new "โหลดแคชเว็บล่วงหน้า"
+    new "โหลด​แคช​เว็บ​ล่วงหน้า"
 
     # renpy/common/00preferences.rpy:577
     old "voice after game menu"
-    new "เสียงพากย์หลังเมนูเกม"
+    new "เสียง​พากย์​หลัง​เมนู​เกม"
 
     # renpy/common/00preferences.rpy:586
     old "restore window position"
-    new "คืนตำแหน่งหน้าต่าง"
+    new "คืน​ตำแหน่ง​หน้าต่าง"
 
     # renpy/common/00preferences.rpy:595
     old "reset"
@@ -728,7 +728,7 @@ translate thai strings:
 
     # renpy/common/00preferences.rpy:608
     old "main volume"
-    new "เสียงหลัก"
+    new "เสียง​หลัก"
 
     # renpy/common/00preferences.rpy:609
     old "music volume"
@@ -736,47 +736,47 @@ translate thai strings:
 
     # renpy/common/00preferences.rpy:610
     old "sound volume"
-    new "เสียงเอฟเฟกต์"
+    new "เสียง​เอฟเฟกต์"
 
     # renpy/common/00preferences.rpy:611
     old "voice volume"
-    new "เสียงพากย์"
+    new "เสียง​พากย์"
 
     # renpy/common/00preferences.rpy:612
     old "mute main"
-    new "ปิดเสียงหลัก"
+    new "ปิด​เสียง​หลัก"
 
     # renpy/common/00preferences.rpy:613
     old "mute music"
-    new "ปิดเสียงเพลง"
+    new "ปิด​เสียงเพลง"
 
     # renpy/common/00preferences.rpy:614
     old "mute sound"
-    new "ปิดเสียงเอฟเฟกต์"
+    new "ปิด​เสียง​เอฟเฟกต์"
 
     # renpy/common/00preferences.rpy:615
     old "mute voice"
-    new "ปิดเสียงพากย์"
+    new "ปิด​เสียง​พากย์"
 
     # renpy/common/00preferences.rpy:616
     old "mute all"
-    new "ปิดเสียงทั้งหมด"
+    new "ปิด​เสียง​ทั้งหมด"
 
     # renpy/common/00preferences.rpy:698
     old "Clipboard voicing enabled. Press 'shift+C' to disable."
-    new "เปิดการอ่านคลิปบอร์ดแล้ว กด 'shift+C' เพื่อปิด"
+    new "เปิด​การ​อ่าน​คลิป​บอร์ด​แล้ว กด 'shift+C' เพื่อ​ปิด"
 
     # renpy/common/00preferences.rpy:700
     old "Self-voicing would say \"[renpy.display.tts.last]\". Press 'alt+shift+V' to disable."
-    new "การอ่านออกเสียงจะพูดว่า \"[renpy.display.tts.last]\" กด 'alt+shift+V' เพื่อปิด"
+    new "การ​อ่าน​ออกเสียง​จะ​พูดว่า \"[renpy.display.tts.last]\" กด 'alt+shift+V' เพื่อ​ปิด"
 
     # renpy/common/00preferences.rpy:702
     old "Self-voicing enabled. Press 'v' to disable."
-    new "เปิดการอ่านออกเสียงแล้ว กด 'v' เพื่อปิด"
+    new "เปิด​การ​อ่าน​ออกเสียง​แล้ว กด 'v' เพื่อ​ปิด"
 
     # renpy/common/00speechbubble.rpy:392
     old "Speech Bubble Editor"
-    new "ตัวแก้ไขกรอบคำพูด"
+    new "ตัว​แก้ไข​กรอบ​คำพูด"
 
     # renpy/common/00speechbubble.rpy:397
     old "(hide)"
@@ -784,51 +784,51 @@ translate thai strings:
 
     # renpy/common/00speechbubble.rpy:408
     old "(clear retained bubbles)"
-    new "(ล้างกรอบคำพูดที่ค้าง)"
+    new "(ล้าง​กรอบ​คำพูด​ที่​ค้าง)"
 
     # renpy/common/00sync.rpy:70
     old "Sync downloaded."
-    new "ดาวน์โหลดซิงก์แล้ว"
+    new "ดาวน์โหลด​ซิงก์​แล้ว"
 
     # renpy/common/00sync.rpy:190
     old "Could not connect to the Ren'Py Sync server."
-    new "เชื่อมต่อเซิร์ฟเวอร์ Ren'Py Sync ไม่ได้"
+    new "เชื่อมต่อ​เซิร์ฟเวอร์ Ren'Py Sync ไม่​ได้"
 
     # renpy/common/00sync.rpy:192
     old "The Ren'Py Sync server timed out."
-    new "เซิร์ฟเวอร์ Ren'Py Sync หมดเวลาเชื่อมต่อ"
+    new "เซิร์ฟเวอร์ Ren'Py Sync หมดเวลา​เชื่อมต่อ"
 
     # renpy/common/00sync.rpy:194
     old "An unknown error occurred while connecting to the Ren'Py Sync server."
-    new "เกิดข้อผิดพลาดที่ไม่ทราบสาเหตุขณะเชื่อมต่อเซิร์ฟเวอร์ Ren'Py Sync"
+    new "เกิด​ข้อผิดพลาด​ที่​ไม่​ทราบ​สาเหตุ​ขณะ​เชื่อมต่อ​เซิร์ฟเวอร์ Ren'Py Sync"
 
     # renpy/common/00sync.rpy:267
     old "The Ren'Py Sync server does not have a copy of this sync. The sync ID may be invalid, or it may have timed out."
-    new "เซิร์ฟเวอร์ Ren'Py Sync ไม่มีสำเนาซิงก์นี้ sync ID อาจไม่ถูกต้องหรือหมดอายุ"
+    new "เซิร์ฟเวอร์ Ren'Py Sync ไม่​มี​สำเนา​ซิงก์​นี้ sync ID อาจ​ไม่​ถูกต้อง​หรือ​หมดอายุ"
 
     # renpy/common/00sync.rpy:412
     old "Please enter the sync ID you generated.\nNever enter a sync ID you didn't create yourself."
-    new "กรุณาใส่ sync ID ที่คุณสร้างเอง\nอย่าใส่ sync ID ที่ไม่ได้สร้างด้วยตัวเองเด็ดขาด"
+    new "กรุณา​ใส่ sync ID ที่​คุณ​สร้าง​เอง\nอย่า​ใส่ sync ID ที่​ไม่​ได้​สร้าง​ด้วยตัวเอง​เด็ดขาด"
 
     # renpy/common/00sync.rpy:431
     old "The sync ID is not in the correct format."
-    new "sync ID ไม่ถูกรูปแบบ"
+    new "sync ID ไม่​ถูก​รูปแบบ"
 
     # renpy/common/00sync.rpy:451
     old "The sync could not be decrypted."
-    new "ไม่สามารถถอดรหัสซิงก์ได้"
+    new "ไม่​สามารถ​ถอดรหัส​ซิงก์​ได้"
 
     # renpy/common/00sync.rpy:474
     old "The sync belongs to a different game."
-    new "ซิงก์นี้เป็นของเกมอื่น"
+    new "ซิงก์​นี้​เป็น​ของ​เกม​อื่น"
 
     # renpy/common/00sync.rpy:479
     old "The sync contains a file with an invalid name."
-    new "ซิงก์มีไฟล์ที่ชื่อไม่ถูกต้อง"
+    new "ซิงก์​มี​ไฟล์​ที่​ชื่อ​ไม่​ถูกต้อง"
 
     # renpy/common/00sync.rpy:538
     old "This will upload your saves to the {a=https://sync.renpy.org}Ren'Py Sync Server{/a}.\nDo you want to continue?"
-    new "การกระทำนี้จะอัปโหลดเซฟของคุณไปยัง {a=https://sync.renpy.org}Ren'Py Sync Server{/a}\nต้องการดำเนินการต่อไหม?"
+    new "การกระทำ​นี้​จะ​อัปโหลด​เซฟ​ของ​คุณ​ไป​ยัง {a=https://sync.renpy.org}Ren'Py Sync Server{/a}\nต้องการ​ดำเนินการ​ต่อ​ไหม?"
 
     # renpy/common/00sync.rpy:569
     old "Enter Sync ID"
@@ -836,11 +836,11 @@ translate thai strings:
 
     # renpy/common/00sync.rpy:580
     old "This will contact the {a=https://sync.renpy.org}Ren'Py Sync Server{/a}."
-    new "การกระทำนี้จะติดต่อ {a=https://sync.renpy.org}Ren'Py Sync Server{/a}"
+    new "การกระทำ​นี้​จะ​ติดต่อ {a=https://sync.renpy.org}Ren'Py Sync Server{/a}"
 
     # renpy/common/00sync.rpy:609
     old "Sync Success"
-    new "ซิงก์สำเร็จ"
+    new "ซิงก์​สำเร็จ"
 
     # renpy/common/00sync.rpy:612
     old "The Sync ID is:"
@@ -848,139 +848,139 @@ translate thai strings:
 
     # renpy/common/00sync.rpy:618
     old "You can use this ID to download your save on another device.\nThis sync will expire in an hour.\nRen'Py Sync is supported by {a=https://www.renpy.org/sponsors.html}Ren'Py's Sponsors{/a}."
-    new "คุณใช้ ID นี้ดาวน์โหลดเซฟบนอุปกรณ์อื่นได้\nซิงก์นี้จะหมดอายุในหนึ่งชั่วโมง\nRen'Py Sync สนับสนุนโดย{a=https://www.renpy.org/sponsors.html}ผู้สนับสนุน Ren'Py{/a}"
+    new "คุณ​ใช้ ID นี้​ดาวน์โหลด​เซฟ​บน​อุปกรณ์​อื่น​ได้\nซิงก์​นี้​จะ​หมดอายุ​ใน​หนึ่ง​ชั่วโมง\nRen'Py Sync สนับสนุน​โดย{a=https://www.renpy.org/sponsors.html}ผู้สนับสนุน Ren'Py{/a}"
 
     # renpy/common/00sync.rpy:646
     old "Sync Error"
-    new "ซิงก์ผิดพลาด"
+    new "ซิงก์​ผิดพลาด"
 
     # renpy/common/00iap.rpy:231
     old "Contacting App Store\nPlease Wait..."
-    new "กำลังติดต่อ App Store\nโปรดรอสักครู่..."
+    new "กำลัง​ติดต่อ App Store\nโปรด​รอ​สักครู่..."
 
     # renpy/common/00updater.rpy:505
     old "No update methods found."
-    new "ไม่พบวิธีอัปเดต"
+    new "ไม่​พบ​วิธี​อัปเดต"
 
     # renpy/common/00updater.rpy:552
     old "Could not download file list: "
-    new "ดาวน์โหลดรายการไฟล์ไม่ได้: "
+    new "ดาวน์โหลด​รายการ​ไฟล์​ไม่​ได้: "
 
     # renpy/common/00updater.rpy:555
     old "File list digest does not match."
-    new "digest ของรายการไฟล์ไม่ตรงกัน"
+    new "digest ของ​รายการ​ไฟล์​ไม่​ตรงกัน"
 
     # renpy/common/00updater.rpy:763
     old "An error is being simulated."
-    new "กำลังจำลองข้อผิดพลาด"
+    new "กำลัง​จำลอง​ข้อผิดพลาด"
 
     # renpy/common/00updater.rpy:951
     old "Either this project does not support updating, or the update status file was deleted."
-    new "โปรเจกต์นี้ไม่รองรับการอัปเดต หรือไฟล์สถานะอัปเดตถูกลบ"
+    new "โปรเจกต์​นี้​ไม่​รองรับ​การ​อัปเดต หรือ​ไฟล์​สถานะ​อัปเดต​ถู​กลบ"
 
     # renpy/common/00updater.rpy:965
     old "This account does not have permission to perform an update."
-    new "บัญชีนี้ไม่มีสิทธิ์อัปเดต"
+    new "บัญชี​นี้​ไม่​มีสิทธิ์​อัปเดต"
 
     # renpy/common/00updater.rpy:968
     old "This account does not have permission to write the update log."
-    new "บัญชีนี้ไม่มีสิทธิ์เขียนล็อกอัปเดต"
+    new "บัญชี​นี้​ไม่​มีสิทธิ์​เขียน​ล็อก​อัปเดต"
 
     # renpy/common/00updater.rpy:1048
     old "Could not verify update signature."
-    new "ยืนยันลายเซ็นอัปเดตไม่ได้"
+    new "ยืนยัน​ลายเซ็น​อัปเดต​ไม่​ได้"
 
     # renpy/common/00updater.rpy:1367
     old "The update file was not downloaded."
-    new "ไม่ได้ดาวน์โหลดไฟล์อัปเดต"
+    new "ไม่​ได้​ดาวน์โหลด​ไฟล์​อัปเดต"
 
     # renpy/common/00updater.rpy:1385
     old "The update file does not have the correct digest - it may have been corrupted."
-    new "ไฟล์อัปเดตมี digest ไม่ถูกต้อง - อาจเสียหาย"
+    new "ไฟล์​อัปเดต​มี digest ไม่​ถูกต้อง - อาจ​เสียหาย"
 
     # renpy/common/00updater.rpy:1535
     old "While unpacking {}, unknown type {}."
-    new "ขณะแตกไฟล์ {} พบชนิดที่ไม่รู้จัก {}"
+    new "ขณะ​แตก​ไฟล์ {} พบ​ชนิด​ที่​ไม่​รู้จัก {}"
 
     # renpy/common/00updater.rpy:2015
     old "Updater"
-    new "ตัวอัปเดต"
+    new "ตัว​อัปเดต"
 
     # renpy/common/00updater.rpy:2022
     old "An error has occured:"
-    new "เกิดข้อผิดพลาด:"
+    new "เกิด​ข้อผิดพลาด:"
 
     # renpy/common/00updater.rpy:2024
     old "Checking for updates."
-    new "กำลังตรวจสอบอัปเดต"
+    new "กำลัง​ตรวจสอบ​อัปเดต"
 
     # renpy/common/00updater.rpy:2026
     old "This program is up to date."
-    new "โปรแกรมนี้เป็นเวอร์ชันล่าสุด"
+    new "โปรแกรม​นี้​เป็น​เวอร์ชัน​ล่าสุด"
 
     # renpy/common/00updater.rpy:2028
     old "[u.version] is available. Do you want to install it?"
-    new "มี [u.version] ให้ใช้งาน ต้องการติดตั้งไหม?"
+    new "มี [u.version] ให้​ใช้งาน ต้องการ​ติดตั้ง​ไหม?"
 
     # renpy/common/00updater.rpy:2030
     old "Preparing to download the updates."
-    new "กำลังเตรียมดาวน์โหลดอัปเดต"
+    new "กำลัง​เตรียม​ดาวน์โหลด​อัปเดต"
 
     # renpy/common/00updater.rpy:2032
     old "Downloading the updates."
-    new "กำลังดาวน์โหลดอัปเดต"
+    new "กำลัง​ดาวน์โหลด​อัปเดต"
 
     # renpy/common/00updater.rpy:2034
     old "Unpacking the updates."
-    new "กำลังแตกไฟล์อัปเดต"
+    new "กำลัง​แตก​ไฟล์​อัปเดต"
 
     # renpy/common/00updater.rpy:2036
     old "Finishing up."
-    new "กำลังทำให้เสร็จสิ้น"
+    new "กำลัง​ทำให้​เสร็จสิ้น"
 
     # renpy/common/00updater.rpy:2038
     old "The updates have been installed. The program will restart."
-    new "ติดตั้งอัปเดตแล้ว โปรแกรมจะรีสตาร์ท"
+    new "ติดตั้ง​อัปเดต​แล้ว โปรแกรม​จะ​รี​สตาร์ท"
 
     # renpy/common/00updater.rpy:2040
     old "The updates have been installed."
-    new "ติดตั้งอัปเดตแล้ว"
+    new "ติดตั้ง​อัปเดต​แล้ว"
 
     # renpy/common/00updater.rpy:2042
     old "The updates were cancelled."
-    new "ยกเลิกอัปเดตแล้ว"
+    new "ยกเลิก​อัปเดต​แล้ว"
 
     # renpy/common/00updater.rpy:2057
     old "Proceed"
-    new "ดำเนินการต่อ"
+    new "ดำเนินการ​ต่อ"
 
     # renpy/common/00updater.rpy:2072
     old "Preparing to download the game data."
-    new "กำลังเตรียมดาวน์โหลดข้อมูลเกม"
+    new "กำลัง​เตรียม​ดาวน์โหลด​ข้อมูล​เกม"
 
     # renpy/common/00updater.rpy:2074
     old "Downloading the game data."
-    new "กำลังดาวน์โหลดข้อมูลเกม"
+    new "กำลัง​ดาวน์โหลด​ข้อมูล​เกม"
 
     # renpy/common/00updater.rpy:2076
     old "The game data has been downloaded."
-    new "ดาวน์โหลดข้อมูลเกมแล้ว"
+    new "ดาวน์โหลด​ข้อมูล​เกม​แล้ว"
 
     # renpy/common/00updater.rpy:2078
     old "An error occured when trying to download game data:"
-    new "เกิดข้อผิดพลาดขณะดาวน์โหลดข้อมูลเกม:"
+    new "เกิด​ข้อผิดพลาด​ขณะ​ดาวน์โหลด​ข้อมูล​เกม:"
 
     # renpy/common/00updater.rpy:2083
     old "This game cannot be run until the game data has been downloaded."
-    new "เกมนี้จะเล่นไม่ได้จนกว่าข้อมูลเกมจะถูกดาวน์โหลด"
+    new "เกม​นี้​จะ​เล่น​ไม่​ได้​จนกว่า​ข้อมูล​เกม​จะ​ถูก​ดาวน์โหลด"
 
     # renpy/common/00updater.rpy:2090
     old "Retry"
-    new "ลองใหม่"
+    new "ลอง​ใหม่"
 
     # renpy/common/00gallery.rpy:627
     old "Image [index] of [count] locked."
-    new "รูปที่ [index] จาก [count] ถูกล็อก"
+    new "รูป​ที่ [index] จาก [count] ถูก​ล็อก"
 
     # renpy/common/00gallery.rpy:647
     old "prev"
@@ -992,7 +992,7 @@ translate thai strings:
 
     # renpy/common/00gallery.rpy:649
     old "slideshow"
-    new "สไลด์โชว์"
+    new "สไลด์​โชว์"
 
     # renpy/common/00gallery.rpy:650
     old "return"
@@ -1000,11 +1000,11 @@ translate thai strings:
 
     # renpy/common/00gltest.rpy:89
     old "Renderer"
-    new "เรนเดอเรอร์"
+    new "เร​น​เด​อเรอร์"
 
     # renpy/common/00gltest.rpy:93
     old "Automatically Choose"
-    new "เลือกอัตโนมัติ"
+    new "เลือก​อัตโนมัติ"
 
     # renpy/common/00gltest.rpy:100
     old "Force GL Renderer"
@@ -1032,15 +1032,15 @@ translate thai strings:
 
     # renpy/common/00gltest.rpy:136
     old "Enable (No Blocklist)"
-    new "เปิดใช้ (ไม่มี Blocklist)"
+    new "เปิด​ใช้ (ไม่​มี Blocklist)"
 
     # renpy/common/00gltest.rpy:159
     old "Powersave"
-    new "ประหยัดพลังงาน"
+    new "ประหยัด​พลังงาน"
 
     # renpy/common/00gltest.rpy:173
     old "Framerate"
-    new "เฟรมเรต"
+    new "เฟรม​เรต"
 
     # renpy/common/00gltest.rpy:177
     old "Screen"
@@ -1056,67 +1056,67 @@ translate thai strings:
 
     # renpy/common/00gltest.rpy:191
     old "Tearing"
-    new "ภาพฉีก"
+    new "ภาพ​ฉีก"
 
     # renpy/common/00gltest.rpy:207
     old "Changes will take effect the next time this program is run."
-    new "การเปลี่ยนแปลงจะมีผลครั้งถัดไปที่เปิดโปรแกรม"
+    new "การเปลี่ยนแปลง​จะ​มีผล​ครั้ง​ถัดไป​ที่​เปิด​โปรแกรม"
 
     # renpy/common/00gltest.rpy:242
     old "Performance Warning"
-    new "คำเตือนประสิทธิภาพ"
+    new "คำเตือน​ประสิทธิภาพ"
 
     # renpy/common/00gltest.rpy:247
     old "This computer is using software rendering."
-    new "คอมพิวเตอร์เครื่องนี้ใช้ software rendering"
+    new "คอมพิวเตอร์​เครื่อง​นี้​ใช้ software rendering"
 
     # renpy/common/00gltest.rpy:249
     old "This game requires use of GL2 that can't be initialised."
-    new "เกมนี้ต้องใช้ GL2 แต่เริ่มต้นไม่ได้"
+    new "เกม​นี้​ต้อง​ใช้ GL2 แต่​เริ่มต้น​ไม่​ได้"
 
     # renpy/common/00gltest.rpy:251
     old "This computer has a problem displaying graphics: [problem]."
-    new "คอมพิวเตอร์เครื่องนี้มีปัญหาแสดงกราฟิก: [problem]"
+    new "คอมพิวเตอร์​เครื่อง​นี้​มีปัญหา​แสดง​กราฟิก: [problem]"
 
     # renpy/common/00gltest.rpy:255
     old "Its graphics drivers may be out of date or not operating correctly. This can lead to slow or incorrect graphics display."
-    new "ไดรเวอร์กราฟิกอาจเก่าหรือทำงานไม่ถูกต้อง ซึ่งทำให้การแสดงผลช้าหรือผิดพลาดได้"
+    new "ไดรเวอร์​กราฟิก​อาจ​เก่า​หรือ​ทำงาน​ไม่​ถูกต้อง ซึ่ง​ทำ​ให้การ​แสดงผล​ช้า​หรือ​ผิดพลาด​ได้"
 
     # renpy/common/00gltest.rpy:259
     old "The {a=edit:1:log.txt}log.txt{/a} file may contain information to help you determine what is wrong with your computer."
-    new "ไฟล์ {a=edit:1:log.txt}log.txt{/a} อาจมีข้อมูลช่วยวินิจฉัยว่าคอมพิวเตอร์มีปัญหาอะไร"
+    new "ไฟล์ {a=edit:1:log.txt}log.txt{/a} อาจ​มี​ข้อมูล​ช่วย​วินิจฉัย​ว่า​คอมพิวเตอร์​มีปัญหา​อะไร"
 
     # renpy/common/00gltest.rpy:264
     old "More details on how to fix this can be found in the {a=[url]}documentation{/a}."
-    new "ดูรายละเอียดวิธีแก้เพิ่มเติมได้ใน{a=[url]}เอกสาร{/a}"
+    new "ดู​รายละเอียด​วิธี​แก้​เพิ่มเติม​ได้​ใน{a=[url]}เอกสาร{/a}"
 
     # renpy/common/00gltest.rpy:269
     old "Continue, Show this warning again"
-    new "ดำเนินการต่อ แสดงคำเตือนนี้อีก"
+    new "ดำเนินการ​ต่อ แสดง​คำเตือน​นี้​อีก"
 
     # renpy/common/00gltest.rpy:273
     old "Continue, Don't show warning again"
-    new "ดำเนินการต่อ ไม่ต้องแสดงคำเตือนนี้อีก"
+    new "ดำเนินการ​ต่อ ไม่ต้อง​แสดง​คำเตือน​นี้​อีก"
 
     # renpy/common/00gltest.rpy:281
     old "Change render options"
-    new "เปลี่ยนตัวเลือกเรนเดอร์"
+    new "เปลี่ยน​ตัวเลือก​เรนเดอร์"
 
     # renpy/common/00gamepad.rpy:32
     old "Select Gamepad to Calibrate"
-    new "เลือกจอยเกมเพื่อปรับตั้ง"
+    new "เลือก​จอ​ย​เกม​เพื่อ​ปรับ​ตั้ง"
 
     # renpy/common/00gamepad.rpy:35
     old "No Gamepads Available"
-    new "ไม่พบจอยเกม"
+    new "ไม่​พบ​จอ​ย​เกม"
 
     # renpy/common/00gamepad.rpy:54
     old "Calibrating [name] ([i]/[total])"
-    new "กำลังปรับตั้ง [name] ([i]/[total])"
+    new "กำลัง​ปรับ​ตั้ง [name] ([i]/[total])"
 
     # renpy/common/00gamepad.rpy:58
     old "Press or move the '[control!s]' [kind]."
-    new "กดหรือเลื่อน '[control!s]' [kind]"
+    new "กด​หรือ​เลื่อน '[control!s]' [kind]"
 
     # renpy/common/00gamepad.rpy:68
     old "Skip (A)"
@@ -1132,7 +1132,7 @@ translate thai strings:
 
     # renpy/common/_errorhandling.rpym:664
     old "Opens the traceback.txt file in a text editor."
-    new "เปิดไฟล์ traceback.txt ในโปรแกรมแก้ไขข้อความ"
+    new "เปิด​ไฟล์ traceback.txt ใน​โปรแกรม​แก้ไข​ข้อความ"
 
     # renpy/common/_errorhandling.rpym:666
     old "Copy BBCode"
@@ -1140,7 +1140,7 @@ translate thai strings:
 
     # renpy/common/_errorhandling.rpym:668
     old "Copies the traceback.txt file to the clipboard as BBcode for forums like https://lemmasoft.renai.us/."
-    new "คัดลอกไฟล์ traceback.txt ไปยังคลิปบอร์ดเป็น BBCode สำหรับฟอรัมอย่าง https://lemmasoft.renai.us/"
+    new "คัดลอก​ไฟล์ traceback.txt ไป​ยัง​คลิป​บอร์ด​เป็น BBCode สำหรับ​ฟอรัม​อย่าง https://lemmasoft.renai.us/"
 
     # renpy/common/_errorhandling.rpym:670
     old "Copy Markdown"
@@ -1148,11 +1148,11 @@ translate thai strings:
 
     # renpy/common/_errorhandling.rpym:672
     old "Copies the traceback.txt file to the clipboard as Markdown for Discord."
-    new "คัดลอกไฟล์ traceback.txt ไปยังคลิปบอร์ดเป็น Markdown สำหรับ Discord"
+    new "คัดลอก​ไฟล์ traceback.txt ไป​ยัง​คลิป​บอร์ด​เป็น Markdown สำหรับ Discord"
 
     # renpy/common/_errorhandling.rpym:703
     old "An exception has occurred."
-    new "เกิดข้อผิดพลาดที่ไม่คาดคิด"
+    new "เกิด​ข้อผิดพลาด​ที่​ไม่​คาดคิด"
 
     # renpy/common/_errorhandling.rpym:726
     old "Rollback"
@@ -1160,27 +1160,27 @@ translate thai strings:
 
     # renpy/common/_errorhandling.rpym:728
     old "Attempts a roll back to a prior time, allowing you to save or choose a different choice."
-    new "พยายามย้อนกลับไปยังจุดก่อนหน้า เพื่อให้คุณเซฟหรือเลือกตัวเลือกอื่นได้"
+    new "พยายาม​ย้อนกลับ​ไป​ยัง​จุด​ก่อนหน้า เพื่อให้​คุณ​เซฟ​หรือ​เลือก​ตัวเลือก​อื่น​ได้"
 
     # renpy/common/_errorhandling.rpym:731
     old "Ignore"
-    new "ข้ามผ่าน"
+    new "ข้าม​ผ่าน"
 
     # renpy/common/_errorhandling.rpym:735
     old "Ignores the exception, allowing you to continue."
-    new "ข้ามข้อผิดพลาด เพื่อให้คุณเล่นต่อได้"
+    new "ข้าม​ข้อผิดพลาด เพื่อให้​คุณ​เล่น​ต่อ​ได้"
 
     # renpy/common/_errorhandling.rpym:737
     old "Ignores the exception, allowing you to continue. This often leads to additional errors."
-    new "ข้ามข้อผิดพลาด เพื่อให้คุณเล่นต่อได้ แต่มักทำให้เกิดข้อผิดพลาดเพิ่ม"
+    new "ข้าม​ข้อผิดพลาด เพื่อให้​คุณ​เล่น​ต่อ​ได้ แต่​มัก​ทำให้เกิด​ข้อผิดพลาด​เพิ่ม"
 
     # renpy/common/_errorhandling.rpym:741
     old "Reload"
-    new "โหลดใหม่"
+    new "โหลด​ใหม่"
 
     # renpy/common/_errorhandling.rpym:743
     old "Reloads the game from disk, saving and restoring game state if possible."
-    new "โหลดเกมใหม่จากดิสก์ เซฟและคืนค่าสถานะเกมถ้าทำได้"
+    new "โหลด​เกม​ใหม่​จาก​ดิสก์ เซฟ​และ​คืน​ค่า​สถานะ​เกม​ถ้า​ทำได้"
 
     # renpy/common/_errorhandling.rpym:746
     old "Console"
@@ -1188,12 +1188,12 @@ translate thai strings:
 
     # renpy/common/_errorhandling.rpym:748
     old "Opens a console to allow debugging the problem."
-    new "เปิดคอนโซลเพื่อดีบักปัญหา"
+    new "เปิด​คอนโซล​เพื่อ​ดี​บัก​ปัญหา"
 
     # renpy/common/_errorhandling.rpym:761
     old "Quits the game."
-    new "ออกจากเกม"
+    new "ออกจาก​เกม"
 
     # renpy/common/_errorhandling.rpym:782
     old "Parsing the script failed."
-    new "แยกวิเคราะห์สคริปต์ล้มเหลว"
+    new "แยก​วิเคราะห์​สคริปต์​ล้มเหลว"

@@ -5,16 +5,16 @@ translate thai strings:
 
     # game/for_testing.rpy:3
     old "illness BEGONE!!!"
-    new "โรคภัยจงสิ้นไป!!!"
+    new "โรค​ภัย​จง​สิ้น​ไป!!!"
 
     # game/for_testing.rpy:28
     old "1. <Testing long choices testing long cho>"
-    new "1. <ทดสอบตัวเลือกยาวๆ ทดสอบตัวเลือ>"
+    new "1. <ทดสอบ​ตัวเลือก​ยาว​ๆ ทดสอบ​ตัว​เลือ>"
 
     # game/for_testing.rpy:28
     old "2. <Testing long ch>"
-    new "2. <ทดสอบตัวเลือ>"
+    new "2. <ทดสอบ​ตัว​เลือ>"
 
     # game/for_testing.rpy:87
     old "1. <Testing long choices testing long choTesting long choices testing long choTesting long choices testing long choTesting long choices testing long cho>"
-    new "1. <ทดสอบตัวเลือกยาวๆ ทดสอบตัวเลือทดสอบตัวเลือกยาวๆ ทดสอบตัวเลือทดสอบตัวเลือกยาวๆ ทดสอบตัวเลือทดสอบตัวเลือกยาวๆ ทดสอบตัวเลือ>"
+    new "1. <ทดสอบ​ตัวเลือก​ยาว​ๆ ทดสอบ​ตัว​เลือ​ทดสอบ​ตัวเลือก​ยาว​ๆ ทดสอบ​ตัว​เลือ​ทดสอบ​ตัวเลือก​ยาว​ๆ ทดสอบ​ตัว​เลือ​ทดสอบ​ตัวเลือก​ยาว​ๆ ทดสอบ​ตัว​เลือ>"

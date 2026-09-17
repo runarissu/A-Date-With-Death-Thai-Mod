@@ -13,7 +13,7 @@ translate thai strings:
 
     # game/script.rpy:147
     old "Testing, testing"
-    new "ทดสอบๆ"
+    new "ทดสอบ​ๆ"
 
     # game/script.rpy:179
     old "Nobody"
@@ -21,11 +21,11 @@ translate thai strings:
 
     # game/script.rpy:580
     old "1. Start from the beginning"
-    new "1. เริ่มจากต้น"
+    new "1. เริ่ม​จาก​ต้น"
 
     # game/script.rpy:580
     old "2. Jump to Beyond the Bet"
-    new "2. ข้ามไป Beyond the Bet"
+    new "2. ข้าม​ไป Beyond the Bet"
 
     # game/script.rpy:586
     old "Grim"

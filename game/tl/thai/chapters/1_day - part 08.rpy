@@ -4,109 +4,109 @@
 translate thai call2_day1_3c1fd32e:
 
     # GRC "What is there to be confused about?"
-    GRC "มีอะไรให้สับสนล่ะ?"
+    GRC "มี​อะไร​ให้​สับสน​ล่ะ?"
 
 # game/chapters/1_day.rpy:2272
 translate thai call2_day1_ae5c1d5c:
 
     # GRC "Oh. Right."
-    GRC "โอ้ ใช่สิ"
+    GRC "โอ้ ใช่​สิ"
 
 # game/chapters/1_day.rpy:2273
 translate thai call2_day1_ec3c55be:
 
     # GRC "I see your mind has wandered into mortal fantasies."
-    GRC "ข้าเห็นว่าจิตใจเจ้าหลงไปสู่จินตนาการของมนุษย์แล้ว"
+    GRC "ข้า​เห็น​ว่า​จิตใจ​เจ้า​หลง​ไป​สู่​จินตนาการ​ของ​มนุษย์​แล้ว"
 
 # game/chapters/1_day.rpy:2280
 translate thai call2_day1_cdbc37f5:
 
     # GRC "I'm simply stating it would make my job easier."
-    GRC "ข้าแค่กล่าวว่ามันจะทำให้งานข้าง่ายขึ้น"
+    GRC "ข้า​แค่​กล่าวว่า​มัน​จะ​ทำให้​งาน​ข้า​ง่าย​ขึ้น"
 
 # game/chapters/1_day.rpy:2287
 translate thai call2_day1_ccf8442b:
 
     # GRC "Dealing with you certainly isn't."
-    GRC "การรับมือกับเจ้าไม่ใช่เรื่องง่ายแน่ๆ"
+    GRC "การ​รับมือ​กับ​เจ้า​ไม่​ใช่​เรื่อง​ง่าย​แน่ๆ"
 
 # game/chapters/1_day.rpy:2291
 translate thai call2_day1_758b546f:
 
     # GRC "I disagree."
-    GRC "ข้าไม่เห็นด้วย"
+    GRC "ข้า​ไม่​เห็นด้วย"
 
 # game/chapters/1_day.rpy:2295
 translate thai call2_day1_b65da2d2:
 
     # GRC "I very strongly disagree."
-    GRC "ข้าไม่เห็นด้วยอย่างรุนแรงมาก"
+    GRC "ข้า​ไม่​เห็นด้วย​อย่าง​รุนแรง​มาก"
 
 # game/chapters/1_day.rpy:2299
 translate thai call2_day1_3eb0aeda:
 
     # GRC "I'm disagreeing so hard that I could win some \nkind of award for the most someone has ever disagreed with a statement."
-    GRC "ข้าไม่เห็นด้วยหนักขนาดที่คงได้รางวัล \nสำหรับผู้ที่ไม่เห็นด้วยกับคำกล่าวมากที่สุดเท่าที่เคยมีมา"
+    GRC "ข้า​ไม่​เห็นด้วย​หนัก​ขนาดที่​คง​ได้​รางวัล \nสำหรับ​ผู้​ที่​ไม่​เห็นด้วย​กับ​คำกล่าว​มาก​ที่สุด​เท่าที่​เคย​มี​มา"
 
 # game/chapters/1_day.rpy:2309
 translate thai call2_day1_a01d3d13:
 
     # GRC "Absolutely not."
-    GRC "ไม่เด็ดขาด"
+    GRC "ไม่​เด็ดขาด"
 
 # game/chapters/1_day.rpy:2313
 translate thai call2_day1_f4e2e0dd:
 
     # GRC "Somehow I knew you would respond like that."
-    GRC "ไม่รู้ทำไม ข้ารู้เลยว่าเจ้าจะตอบแบบนั้น"
+    GRC "ไม่​รู้​ทำไม ข้า​รู้​เลย​ว่า​เจ้า​จะ​ตอบ​แบบ​นั้น"
 
 # game/chapters/1_day.rpy:2314
 translate thai call2_day1_7a7dc1c8:
 
     # GRC "You really are ever so difficult."
-    GRC "เจ้าช่างยากลำบากเสียจริง"
+    GRC "เจ้า​ช่าง​ยากลำบาก​เสีย​จริง"
 
 # game/chapters/1_day.rpy:2319
 translate thai call2_day1_f21effae:
 
     # GRC "Or you could refrain from being so... troublesome."
-    GRC "หรือเจ้าจะลดความ... เป็นปัญหาของเจ้าลงหน่อยก็ได้"
+    GRC "หรือ​เจ้า​จะ​ลด​ความ... เป็นปัญหา​ของ​เจ้า​ลง​หน่อย​ก็ได้"
 
 # game/chapters/1_day.rpy:2322
 translate thai call2_day1_8007eaa2:
 
     # GRC "My job is never easy."
-    GRC "งานของข้าไม่เคยง่ายเลย"
+    GRC "งาน​ของ​ข้า​ไม่​เคย​ง่าย​เลย"
 
 # game/chapters/1_day.rpy:2324
 translate thai call2_day1_ebc82d37:
 
     # GRC "Though it is also not usually this difficult."
-    GRC "แต่ก็ไม่เคยยากขนาดนี้มาก่อนเช่นกัน"
+    GRC "แต่​ก็​ไม่​เคย​ยาก​ขนาด​นี้​มา​ก่อน​เช่นกัน"
 
 # game/chapters/1_day.rpy:2328
 translate thai call2_day1_a6be069a:
 
     # GRC "Don't flatter yourself."
-    GRC "อย่าชื่นชมตัวเองไปเลย"
+    GRC "อย่า​ชื่นชม​ตัวเอง​ไป​เลย"
 
 # game/chapters/1_day.rpy:2329
 translate thai call2_day1_d590c85c:
 
     # GRC "Being difficult does not make you important."
-    GRC "การเป็นคนยากไม่ได้ทำให้เจ้าสำคัญหรอก"
+    GRC "การ​เป็น​คน​ยาก​ไม่​ได้​ทำให้​เจ้า​สำคัญ​หรอก"
 
 # game/chapters/1_day.rpy:2333
 translate thai call2_day1_6d74b146:
 
     # GRC "Special? You? That remains to be seen."
-    GRC "พิเศษรึ? เจ้าน่ะรึ? ต้องรอดูกัน"
+    GRC "พิเศษ​รึ? เจ้า​น่ะ​รึ? ต้อง​รอ​ดู​กัน"
 
 # game/chapters/1_day.rpy:2334
 translate thai call2_day1_900c7156:
 
     # GRC "At the moment you are just a pain in my side."
-    GRC "ตอนนี้เจ้าเป็นแค่หนามยอกอกข้าเท่านั้น"
+    GRC "ตอนนี้​เจ้า​เป็น​แค่​หนามยอกอก​ข้า​เท่านั้น"
 
 # game/chapters/1_day.rpy:2339
 translate thai call2_day1_008afe10_6:
@@ -124,7 +124,7 @@ translate thai call2_day1_65122790:
 translate thai call2_day1_b637bcf9:
 
     # GRC "Preposterous."
-    GRC "ไร้สาระสิ้นดี"
+    GRC "ไร้สาระ​สิ้นดี"
 
 # game/chapters/1_day.rpy:2351
 translate thai call2_day1_0a2c4bf7:
@@ -136,19 +136,19 @@ translate thai call2_day1_0a2c4bf7:
 translate thai call2_day1_f0503631:
 
     # GRC "I... I definitely am not agreeing!"
-    GRC "ข้า... ข้าไม่ได้เห็นด้วยแน่นอน!"
+    GRC "ข้า... ข้า​ไม่​ได้​เห็นด้วย​แน่นอน!"
 
 # game/chapters/1_day.rpy:2355
 translate thai call2_day1_e650137a:
 
     # GRC "What makes you think I want someone to boss me around?"
-    GRC "อะไรทำให้เจ้าคิดว่าข้าอยากให้ใครมาสั่งข้า?"
+    GRC "อะไร​ทำให้​เจ้า​คิด​ว่า​ข้า​อยาก​ให้​ใคร​มา​สั่ง​ข้า?"
 
 # game/chapters/1_day.rpy:2359
 translate thai call2_day1_87a7d50d:
 
     # GRC "Lost... puppy vibes?"
-    GRC "ฟีล... ลูกหมาหลงทางรึ?"
+    GRC "ฟี​ล... ลูก​หมา​หลงทาง​รึ?"
 
 # game/chapters/1_day.rpy:2360
 translate thai call2_day1_1a2b5d27:
@@ -160,7 +160,7 @@ translate thai call2_day1_1a2b5d27:
 translate thai call2_day1_0c2759da:
 
     # GRC "The... the WHAT?"
-    GRC "อะ... อะไรนะ?"
+    GRC "อะ... อะไร​นะ?"
 
 # game/chapters/1_day.rpy:2375
 translate thai call2_day1_65122790_1:
@@ -172,25 +172,25 @@ translate thai call2_day1_65122790_1:
 translate thai call2_day1_9b7d4b85:
 
     # GRC "I am... a Grim Reaper. A GRIM REAPER."
-    GRC "ข้าเป็น... ยมทูต ยมทูตนะ"
+    GRC "ข้า​เป็น... ยมทูต ยมทูต​นะ"
 
 # game/chapters/1_day.rpy:2378
 translate thai call2_day1_a607ee7b:
 
     # GRC "What about that makes me submissive?!"
-    GRC "ตรงไหนของมันที่ทำให้ข้าดูเชื่อง?!"
+    GRC "ตรงไหน​ของ​มัน​ที่​ทำให้​ข้า​ดู​เชื่อง?!"
 
 # game/chapters/1_day.rpy:2379
 translate thai call2_day1_dd112d3b:
 
     # GRC "I am literally domineering! It is in my job description!"
-    GRC "ข้าเป็นผู้ครอบงำโดยแท้! มันอยู่ในรายละเอียดงานของข้า!"
+    GRC "ข้า​เป็น​ผู้​ครอบงำ​โดยแท้! มัน​อยู่​ใน​รายละเอียด​งาน​ของ​ข้า!"
 
 # game/chapters/1_day.rpy:2390
 translate thai call2_day1_0b084266:
 
     # GRC "And what if I don't do what you tell me to do?"
-    GRC "แล้วหากข้าไม่ทำตามที่เจ้าสั่งล่ะ?"
+    GRC "แล้ว​หาก​ข้า​ไม่​ทำ​ตามที่​เจ้า​สั่ง​ล่ะ?"
 
 # game/chapters/1_day.rpy:2404
 translate thai call2_day1_55bdc250:
@@ -202,61 +202,61 @@ translate thai call2_day1_55bdc250:
 translate thai call2_day1_403d04be:
 
     # GRC "You know what?"
-    GRC "รู้อะไรไหม?"
+    GRC "รู้​อะไร​ไหม?"
 
 # game/chapters/1_day.rpy:2410
 translate thai call2_day1_4e502785:
 
     # GRC "Mortal, you are dismissed."
-    GRC "มนุษย์ เจ้าได้รับอนุญาตให้ไปได้แล้ว"
+    GRC "มนุษย์ เจ้า​ได้รับอนุญาต​ให้​ไป​ได้​แล้ว"
 
 # game/chapters/1_day.rpy:2419
 translate thai call2_day1_a52dcb2a:
 
     # GRC "Do you not understand the word?"
-    GRC "เจ้าไม่เข้าใจคำนี้รึ?"
+    GRC "เจ้า​ไม่​เข้าใจ​คำ​นี้​รึ?"
 
 # game/chapters/1_day.rpy:2420
 translate thai call2_day1_4508fa37:
 
     # GRC "You can go. Please."
-    GRC "เจ้าไปได้แล้ว ได้โปรด"
+    GRC "เจ้า​ไป​ได้​แล้ว ได้​โปรด"
 
 # game/chapters/1_day.rpy:2424
 translate thai call2_day1_356f27bd:
 
     # GRC "Yes, I usually have that effect on people."
-    GRC "ใช่ ข้ามักมีผลแบบนั้นต่อผู้คนอยู่เสมอ"
+    GRC "ใช่ ข้า​มัก​มีผล​แบบ​นั้น​ต่อ​ผู้คน​อยู่​เสมอ"
 
 # game/chapters/1_day.rpy:2426
 translate thai call2_day1_e987ea49:
 
     # GRC "But it is time for you to get your due rest."
-    GRC "แต่ถึงเวลาที่เจ้าต้องพักผ่อนตามสมควรแล้ว"
+    GRC "แต่​ถึง​เวลา​ที่​เจ้า​ต้อง​พักผ่อน​ตามสมควร​แล้ว"
 
 # game/chapters/1_day.rpy:2429
 translate thai call2_day1_cc50bc1a:
 
     # GRC "Then we could sit here all night chatting."
-    GRC "งั้นเราก็คงนั่งคุยกันทั้งคืนตรงนี้สินะ"
+    GRC "งั้น​เรา​ก็​คง​นั่ง​คุย​กัน​ทั้งคืน​ตรงนี้​สิ​นะ"
 
 # game/chapters/1_day.rpy:2430
 translate thai call2_day1_68a9f86f:
 
     # GRC "I'm sure you would enjoy that."
-    GRC "ข้ามั่นใจว่าเจ้าคงชอบแบบนั้น"
+    GRC "ข้า​มั่นใจ​ว่า​เจ้า​คง​ชอบ​แบบ​นั้น"
 
 # game/chapters/1_day.rpy:2433
 translate thai call2_day1_43baa420:
 
     # GRC "Good. It is time for you to rest."
-    GRC "ดี ถึงเวลาที่เจ้าต้องพักผ่อนแล้ว"
+    GRC "ดี ถึง​เวลา​ที่​เจ้า​ต้อง​พักผ่อน​แล้ว"
 
 # game/chapters/1_day.rpy:2439
 translate thai call2_day1_4ac61850:
 
     # GRC "You'll need your rest, else our competition won't be as fun."
-    GRC "เจ้าจะต้องพักผ่อน ไม่อย่างนั้นการแข่งขันของเราจะไม่สนุกเท่าที่ควร"
+    GRC "เจ้า​จะ​ต้อง​พักผ่อน ไม่อย่างนั้น​การแข่งขัน​ของ​เรา​จะ​ไม่​สนุก​เท่าที่ควร"
 
 # game/chapters/1_day.rpy:2443
 translate thai call2_day1_008afe10_7:
@@ -268,49 +268,49 @@ translate thai call2_day1_008afe10_7:
 translate thai call2_day1_f79678dc:
 
     # GRC "Sleep well, [playerfirstname]."
-    GRC "นอนหลับฝันดีนะ [playerfirstname]"
+    GRC "นอนหลับ​ฝันดี​นะ [playerfirstname]"
 
 # game/chapters/1_day.rpy:2469
 translate thai chat3_day1_755c70f2:
 
     # player "Hey, wait a second..."
-    player "เฮ้ เดี๋ยวก่อนนะ..."
+    player "เฮ้ เดี๋ยวก่อน​นะ..."
 
 # game/chapters/1_day.rpy:2472
 translate thai chat3_day1_ebb4b119:
 
     # player "How did you know my name?"
-    player "เธอรู้ชื่อฉันได้ยังไง?"
+    player "เธอ​รู้​ชื่อ​ฉัน​ได้​ยังไง?"
 
 # game/chapters/1_day.rpy:2473
 translate thai chat3_day1_1e97ab72:
 
     # GR "how indeed."
-    GR "รู้ได้ยังไงน่ะเหรอ"
+    GR "รู้​ได้​ยังไง​น่ะ​เหรอ"
 
 # game/chapters/1_day.rpy:2476
 translate thai chat3_day1_c2d7dd9c:
 
     # player "I never told you!"
-    player "ฉันไม่เคยบอกเธอเลยนะ!"
+    player "ฉัน​ไม่​เคย​บอก​เธอ​เลย​นะ!"
 
 # game/chapters/1_day.rpy:2477
 translate thai chat3_day1_5d7104e6:
 
     # GR "wow, i wonder how exactly i could have known, then."
-    GR "โอ้ว งั้นข้าก็สงสัยเหมือนกันว่าข้ารู้ได้ยังไง"
+    GR "โอ้ว งั้น​ข้า​ก็​สงสัย​เหมือนกัน​ว่า​ข้า​รู้​ได้​ยังไง"
 
 # game/chapters/1_day.rpy:2478
 translate thai chat3_day1_2114d1c4:
 
     # GR "it's not like i have a big list sitting in front of me with your name circled at the bottom."
-    GR "ก็ไม่ใช่ว่าข้ามีลิสต์ใหญ่ๆ วางอยู่ตรงหน้า มีชื่อเจ้าถูกวงกลมไว้ที่ล่างสุดหรอกนะ"
+    GR "ก็​ไม่​ใช่​ว่า​ข้า​มี​ลิสต์​ใหญ่​ๆ วาง​อยู่​ตรงหน้า มีชื่อ​เจ้า​ถูก​วงกลม​ไว้​ที่​ล่าง​สุด​หรอก​นะ"
 
 # game/chapters/1_day.rpy:2481
 translate thai chat3_day1_54eadd4a:
 
     # player "Aw, you circled it?"
-    player "โอ้ว เธอวงกลมชื่อฉันไว้ด้วยเหรอ?"
+    player "โอ้ว เธอ​วงกลม​ชื่อ​ฉัน​ไว้​ด้วย​เหรอ?"
 
 # game/chapters/1_day.rpy:2482
 translate thai chat3_day1_5124b3f0:
@@ -328,73 +328,73 @@ translate thai chat3_day1_725cd3d2:
 translate thai chat3_day1_104f4b19:
 
     # player "Sleep well, grimmy :)"
-    player "นอนหลับฝันดีนะ กริมมี่ :)"
+    player "นอนหลับ​ฝันดี​นะ กริม​มี่ :)"
 
 # game/chapters/1_day.rpy:2491
 translate thai chat3_day1_7a684a72:
 
     # player "Oh, wait, can I change my username?"
-    player "อ๊ะ เดี๋ยว ฉันเปลี่ยน username ได้ไหม?"
+    player "อ๊ะ เดี๋ยว ฉัน​เปลี่ยน username ได้​ไหม?"
 
 # game/chapters/1_day.rpy:2492
 translate thai chat3_day1_9fd9a76d:
 
     # GR "why?"
-    GR "ทำไมล่ะ?"
+    GR "ทำไม​ล่ะ?"
 
 # game/chapters/1_day.rpy:2495
 translate thai chat3_day1_bbbf5b0d:
 
     # player "I just want to."
-    player "ก็แค่อยากเปลี่ยนน่ะ"
+    player "ก็​แค่​อยาก​เปลี่ยน​น่ะ"
 
 # game/chapters/1_day.rpy:2496
 translate thai chat3_day1_ed39b66e:
 
     # GR "hm. yes, i suppose you can."
-    GR "อืม ได้สิ ข้าว่าเจ้าเปลี่ยนได้"
+    GR "อืม ได้​สิ ข้า​ว่า​เจ้า​เปลี่ยน​ได้"
 
 # game/chapters/1_day.rpy:2499
 translate thai chat3_day1_8d438dd7:
 
     # player "Wow, easier to convince than I expected."
-    player "โอ้ว โน้มน้าวง่ายกว่าที่คิดแฮะ"
+    player "โอ้ว โน้มน้าว​ง่า​ยก​ว่าที่​คิด​แฮะ"
 
 # game/chapters/1_day.rpy:2500
 translate thai chat3_day1_2773bb6d:
 
     # GR "did you want me to say no or something...?"
-    GR "เจ้าอยากให้ข้าบอกว่าไม่ได้หรือไง...?"
+    GR "เจ้า​อยาก​ให้​ข้า​บอก​ว่าไม่ได้​หรือไง...?"
 
 # game/chapters/1_day.rpy:2503
 translate thai chat3_day1_a81bb0d1:
 
     # player "This one is kinda lame."
-    player "อันนี้มันเฉยๆ ไปหน่อยอะ"
+    player "อันนี้​มัน​เฉย​ๆ ไป​หน่อย​อะ"
 
 # game/chapters/1_day.rpy:2504
 translate thai chat3_day1_3b2dd9f7:
 
     # GR "lame? it is not lame."
-    GR "เฉยเหรอ? มันไม่ได้เฉยเลย"
+    GR "เฉย​เหรอ? มัน​ไม่​ได้​เฉย​เลย"
 
 # game/chapters/1_day.rpy:2505
 translate thai chat3_day1_cbee77fc:
 
     # GR "it represents how many souls i claimed before yours."
-    GR "มันแสดงถึงจำนวนวิญญาณที่ข้าเก็บไปก่อนหน้าเจ้า"
+    GR "มัน​แสดงถึง​จำนวน​วิญญาณ​ที่​ข้า​เก็บ​ไป​ก่อนหน้า​เจ้า"
 
 # game/chapters/1_day.rpy:2506
 translate thai chat3_day1_5f29e88a:
 
     # GR "it is a badge of honor."
-    GR "มันคือตราแห่งเกียรติ"
+    GR "มัน​คือ​ตรา​แห่ง​เกียรติ"
 
 # game/chapters/1_day.rpy:2509
 translate thai chat3_day1_8bfe1463:
 
     # player "But can I change it or not?"
-    player "แต่สรุปฉันเปลี่ยนได้ไหมล่ะ?"
+    player "แต่​สรุป​ฉัน​เปลี่ยน​ได้​ไหม​ล่ะ?"
 
 # game/chapters/1_day.rpy:2510
 translate thai chat3_day1_55690088:
@@ -406,19 +406,19 @@ translate thai chat3_day1_55690088:
 translate thai chat3_day1_d671ed7e:
 
     # player "What about my picture?"
-    player "แล้วรูปโปรไฟล์ฉันล่ะ?"
+    player "แล้ว​รูป​โปรไฟล์​ฉัน​ล่ะ?"
 
 # game/chapters/1_day.rpy:2514
 translate thai chat3_day1_f1cf95b6:
 
     # GR "you're a needy little thing, aren't you?"
-    GR "เจ้าเป็นคนขออะไรเยอะจังนะ ใช่ไหมล่ะ?"
+    GR "เจ้า​เป็น​คน​ขอ​อะไร​เยอะ​จัง​นะ ใช่ไหม​ล่ะ?"
 
 # game/chapters/1_day.rpy:2517
 translate thai chat3_day1_8f517da0:
 
     # player "Just for you ;)"
-    player "เฉพาะกับเธอเท่านั้นแหละ ;)"
+    player "เฉพาะ​กับ​เธอ​เท่า​นั้นแหละ ;)"
 
 # game/chapters/1_day.rpy:2518
 translate thai chat3_day1_7772a27d:
@@ -430,13 +430,13 @@ translate thai chat3_day1_7772a27d:
 translate thai chat3_day1_600c02d1:
 
     # GR "...fine. i have turned on the feature for you."
-    GR "...ได้ ข้าเปิดฟีเจอร์ให้เจ้าแล้ว"
+    GR "...ได้ ข้า​เปิด​ฟีเจอร์​ให้​เจ้า​แล้ว"
 
 # game/chapters/1_day.rpy:2522
 translate thai chat3_day1_e62511d6:
 
     # player "Aren't these basic messaging app features?"
-    player "นี่มันไม่ใช่ฟีเจอร์พื้นฐานของแอปแชทเหรอ?"
+    player "นี่​มัน​ไม่​ใช่​ฟีเจอร์​พื้นฐาน​ของ​แอ​ป​แชท​เหรอ?"
 
 # game/chapters/1_day.rpy:2523
 translate thai chat3_day1_3f7ad2f6:
@@ -448,37 +448,37 @@ translate thai chat3_day1_3f7ad2f6:
 translate thai chat3_day1_39581029:
 
     # GR "then yes, of course you can."
-    GR "งั้นก็ได้สิ แน่นอนเจ้าทำได้"
+    GR "งั้น​ก็ได้​สิ แน่นอน​เจ้า​ทำได้"
 
 # game/chapters/1_day.rpy:2525
 translate thai chat3_day1_d2e7cd19:
 
     # GR "obviously. this program lacks in absolutely no ways."
-    GR "ชัดเจน โปรแกรมนี้ไม่ขาดตกบกพร่องในทางใดเลย"
+    GR "ชัดเจน โปรแกรม​นี้​ไม่​ขาดตกบกพร่อง​ใน​ทาง​ใด​เลย"
 
 # game/chapters/1_day.rpy:2534
 translate thai chat4_day1_f13f595c:
 
     # player "Thanks grimmy. Night night!"
-    player "ขอบใจนะกริมมี่ ฝันดีจ้า!"
+    player "ขอบใจ​นะ​กริม​มี่ ฝันดี​จ้า!"
 
 # game/chapters/1_day.rpy:2536
 translate thai chat4_day1_425ac1e8:
 
     # GR "you can click your little picture to change it whenever now."
-    GR "เจ้าคลิกที่รูปเล็กๆ ของเจ้าเพื่อเปลี่ยนมันได้ทุกเมื่อแล้ว"
+    GR "เจ้า​คลิก​ที่​รูป​เล็ก​ๆ ของ​เจ้า​เพื่อ​เปลี่ยน​มัน​ได้​ทุกเมื่อ​แล้ว"
 
 # game/chapters/1_day.rpy:2537
 translate thai chat4_day1_3e685698:
 
     # GR "yes, i work that quickly. you may be impressed."
-    GR "ใช่ ข้าทำงานเร็วขนาดนั้น เจ้าอาจประทับใจก็ได้นะ"
+    GR "ใช่ ข้า​ทำงาน​เร็ว​ขนาด​นั้น เจ้า​อาจ​ประทับใจ​ก็ได้​นะ"
 
 # game/chapters/1_day.rpy:2538
 translate thai chat4_day1_216bd8ec:
 
     # GR "enjoy."
-    GR "เอนจอยล่ะ"
+    GR "เอน​จอ​ย​ล่ะ"
 
 # game/chapters/1_day.rpy:2542
 translate thai chat4_day1_8a01d354:

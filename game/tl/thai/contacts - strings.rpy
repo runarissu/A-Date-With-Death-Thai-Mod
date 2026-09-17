@@ -8,7 +8,7 @@ translate thai strings:
 
     # game/contacts.rpy:8
     old "On an adventure!"
-    new "กำลังออกผจญภัย!"
+    new "กำลัง​ออก​ผจญภัย!"
 
     # game/contacts.rpy:9
     old "SlugTia"
@@ -16,7 +16,7 @@ translate thai strings:
 
     # game/contacts.rpy:9
     old "Slug boy slug boy"
-    new "หนุ่มทาก หนุ่มทาก"
+    new "หนุ่ม​ทาก หนุ่ม​ทาก"
 
     # game/contacts.rpy:10
     old "BlueBird"
@@ -24,7 +24,7 @@ translate thai strings:
 
     # game/contacts.rpy:10
     old "Spread your wings"
-    new "กางปีกของเธอออก"
+    new "กางปีก​ของ​เธอ​ออก"
 
     # game/contacts.rpy:11
     old "Witch"
@@ -32,7 +32,7 @@ translate thai strings:
 
     # game/contacts.rpy:11
     old "Magic in stories"
-    new "เวทมนตร์ในเรื่องราว"
+    new "เวทมนตร์​ใน​เรื่องราว"
 
     # game/contacts.rpy:12
     old "GoAway"
@@ -40,7 +40,7 @@ translate thai strings:
 
     # game/contacts.rpy:12
     old "Don't message me"
-    new "อย่าทักมานะ"
+    new "อย่า​ทัก​มานะ"
 
     # game/contacts.rpy:13
     old "CatLoungeVT"
@@ -48,7 +48,7 @@ translate thai strings:
 
     # game/contacts.rpy:13
     old "Follow me on MewTube!"
-    new "ติดตามฉันบน MewTube!"
+    new "ติดตาม​ฉัน​บน MewTube!"
 
     # game/contacts.rpy:14
     old "ModelGamer"

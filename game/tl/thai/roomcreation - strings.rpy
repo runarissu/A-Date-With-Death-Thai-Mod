@@ -4,36 +4,36 @@ translate thai strings:
 
     # game/roomcreation.rpy:74
     old "Wall Color"
-    new "สีผนัง"
+    new "สี​ผนัง"
 
     # game/roomcreation.rpy:113
     old "Desk Decor"
-    new "ของตกแต่งโต๊ะ"
+    new "ของ​ตกแต่ง​โต๊ะ"
 
     # game/roomcreation.rpy:140
     old "Bed Color"
-    new "สีเตียง"
+    new "สี​เตียง"
 
     # game/roomcreation.rpy:171
     old "Room Decor"
-    new "ของตกแต่งห้อง"
+    new "ของ​ตกแต่ง​ห้อง"
 
     # game/roomcreation.rpy:181
     old "Polaroid Set"
-    new "เซ็ตโพลารอยด์"
+    new "เซ็ต​โพลารอยด์"
 
     # game/roomcreation.rpy:240
     old "Fairylights Set"
-    new "เซ็ตไฟประดับ"
+    new "เซ็ต​ไฟ​ประดับ"
 
     # game/roomcreation.rpy:280
     old "Plant Lover Set"
-    new "เซ็ตคนรักต้นไม้"
+    new "เซ็ต​คนรัก​ต้นไม้"
 
     # game/roomcreation.rpy:338
     old "Posters Set"
-    new "เซ็ตโปสเตอร์"
+    new "เซ็ต​โปสเตอร์"
 
     # game/roomcreation.rpy:410
     old "Neat Set"
-    new "เซ็ตเรียบร้อย"
+    new "เซ็ต​เรียบร้อย"

@@ -4,9 +4,9 @@ translate thai strings:
 
     # game/3D/image_viewer.rpy:13
     old "Type a image name"
-    new "พิมพ์ชื่อรูปภาพ"
+    new "พิมพ์​ชื่อ​รูปภาพ"
 
     # game/3D/image_viewer.rpy:14
     old "Tab: completion"
-    new "Tab: เติมอัตโนมัติ"
+    new "Tab: เติม​อัตโนมัติ"
 
