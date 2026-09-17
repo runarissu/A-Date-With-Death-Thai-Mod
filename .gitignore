@@ -1,0 +1,19 @@
+# Track only Thai mod files — ignore the entire game install
+/*
+
+# Whitelist: mod files
+!.gitignore
+!docs/
+!_create_rpa.py
+!_merge_fonts.py
+!_split_tl.py
+!game/
+game/*
+!game/tl/
+game/tl/*
+!game/tl/thai/
+
+# Build artifacts inside whitelisted paths
+*.rpyc
+game/thai_mod.rpa
+__pycache__/
